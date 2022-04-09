@@ -26,7 +26,7 @@ td_consumer_key =my_secret
 
 
 quotes_url = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/quotes?'
-history_url = endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
+endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
 base = "https://api.tdameritrade.com/v1/accounts/{account}"
 movers_url = "https://api.tdameritrade.com/v1/marketdata/{index}/movers"
 fundamentals_url = 'https://api.tdameritrade.com/v1/instruments?&symbol={stock_ticker}&projection={projection}'
@@ -158,6 +158,8 @@ def get_fundamentals(ticker):
 
 
 def get_history(ticker):
+  endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
+ 
   candleStick_dict = {}
   fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume']
   num = 0
@@ -223,7 +225,7 @@ if __name__ == "__main__":
   #get_fundamentals(arr)
   #time.sleep(20)
   print("20 Seconds...")
-  #get_history(arr[0])
+  get_history(['$DJI'])
   print(f'Done! check {today}\'s folder!')
-  options()
+  #options()
 

@@ -1,4 +1,4 @@
-Exchange: APA Corporation - Common Stock
+APA Corporation - Common Stock
 PE_Ratio: 15.69853
 Beta: 4.41457
 High52: 43.88
@@ -11,7 +11,7 @@ Net Profit Margin TTM: 16.44333
 APA Corporation - Common Stock
 
 
-Exchange: American Express Company Common Stock
+American Express Company Common Stock
 PE_Ratio: 18.25079
 Beta: 1.09795
 High52: 199.55
@@ -24,7 +24,7 @@ Net Profit Margin TTM: 18.81507
 American Express Company Common Stock
 
 
-Exchange: Apple Inc. - Common Stock
+Apple Inc. - Common Stock
 PE_Ratio: 28.57926
 Beta: 1.19092
 High52: 182.94
@@ -37,7 +37,7 @@ Net Profit Margin TTM: 26.57914
 Apple Inc. - Common Stock
 
 
-Exchange: Berry Corporation (bry) - Common Stock
+Berry Corporation (bry) - Common Stock
 PE_Ratio: 0.0
 Beta: 2.53723
 High52: 11.86
@@ -50,7 +50,7 @@ Net Profit Margin TTM: 0.0
 Berry Corporation (bry) - Common Stock
 
 
-Exchange: Bicycle Therapeutics plc - American Depositary Shares
+Bicycle Therapeutics plc - American Depositary Shares
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 62.075
@@ -63,7 +63,7 @@ Net Profit Margin TTM: 0.0
 Bicycle Therapeutics plc - American Depositary Shares
 
 
-Exchange: BioCryst Pharmaceuticals, Inc. - Common Stock
+BioCryst Pharmaceuticals, Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 2.30933
 High52: 19.99
@@ -76,7 +76,7 @@ Net Profit Margin TTM: 0.0
 BioCryst Pharmaceuticals, Inc. - Common Stock
 
 
-Exchange: Biofrontera Inc. - Common Stock
+Biofrontera Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 14.63
@@ -89,7 +89,7 @@ Net Profit Margin TTM: 0.0
 Biofrontera Inc. - Common Stock
 
 
-Exchange: Boeing Company (The) Common Stock
+Boeing Company (The) Common Stock
 PE_Ratio: 0.0
 Beta: 1.4157
 High52: 258.3957
@@ -102,7 +102,7 @@ Net Profit Margin TTM: 0.0
 Boeing Company (The) Common Stock
 
 
-Exchange: C4 Therapeutics, Inc. - Common Stock
+C4 Therapeutics, Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 51.21
@@ -115,7 +115,7 @@ Net Profit Margin TTM: 0.0
 C4 Therapeutics, Inc. - Common Stock
 
 
-Exchange: Chevron Corporation Common Stock
+Chevron Corporation Common Stock
 PE_Ratio: 20.54153
 Beta: 1.12787
 High52: 174.76
@@ -128,7 +128,7 @@ Net Profit Margin TTM: 10.06479
 Chevron Corporation Common Stock
 
 
-Exchange: Cisco Systems, Inc. - Common Stock
+Cisco Systems, Inc. - Common Stock
 PE_Ratio: 19.54044
 Beta: 0.94862
 High52: 64.285
@@ -141,7 +141,7 @@ Net Profit Margin TTM: 22.93934
 Cisco Systems, Inc. - Common Stock
 
 
-Exchange: Constellation Energy Corporation - Common Stock
+Constellation Energy Corporation - Common Stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 61.07
@@ -154,7 +154,7 @@ Net Profit Margin TTM: 0.0
 Constellation Energy Corporation - Common Stock
 
 
-Exchange: Coterra Energy Inc. Common Stock
+Coterra Energy Inc. Common Stock
 PE_Ratio: 15.76476
 Beta: 0.0
 High52: 29.485
@@ -167,7 +167,7 @@ Net Profit Margin TTM: 33.57495
 Coterra Energy Inc. Common Stock
 
 
-Exchange: DISH Network Corporation - Class A Common Stock
+DISH Network Corporation - Class A Common Stock
 PE_Ratio: 8.01904
 Beta: 1.99598
 High52: 47.05
@@ -180,7 +180,7 @@ Net Profit Margin TTM: 13.73487
 DISH Network Corporation - Class A Common Stock
 
 
-Exchange: Discovery, Inc. - Series A Common Stock
+Discovery, Inc. - Series A Common Stock
 PE_Ratio: 14.99094
 Beta: 1.13675
 High52: 45.4719
@@ -193,7 +193,7 @@ Net Profit Margin TTM: 9.81872
 Discovery, Inc. - Series A Common Stock
 
 
-Exchange: Discovery, Inc. - Series C Common Stock
+Discovery, Inc. - Series C Common Stock
 PE_Ratio: 14.99094
 Beta: 1.13675
 High52: 38.16
@@ -206,7 +206,7 @@ Net Profit Margin TTM: 9.81872
 Discovery, Inc. - Series C Common Stock
 
 
-Exchange: EOG Resources, Inc. Common Stock
+EOG Resources, Inc. Common Stock
 PE_Ratio: 15.09962
 Beta: 1.7796
 High52: 124.89
@@ -219,7 +219,7 @@ Net Profit Margin TTM: 25.04161
 EOG Resources, Inc. Common Stock
 
 
-Exchange: EPAM Systems, Inc. Common Stock
+EPAM Systems, Inc. Common Stock
 PE_Ratio: 34.37897
 Beta: 1.81993
 High52: 725.4
@@ -232,7 +232,7 @@ Net Profit Margin TTM: 12.81622
 EPAM Systems, Inc. Common Stock
 
 
-Exchange: Enphase Energy, Inc. - Common Stock
+Enphase Energy, Inc. - Common Stock
 PE_Ratio: 203.1611
 Beta: 1.2568
 High52: 282.46
@@ -245,7 +245,7 @@ Net Profit Margin TTM: 10.52416
 Enphase Energy, Inc. - Common Stock
 
 
-Exchange: Etsy, Inc. - Common Stock
+Etsy, Inc. - Common Stock
 PE_Ratio: 35.95647
 Beta: 1.63931
 High52: 307.75
@@ -258,7 +258,7 @@ Net Profit Margin TTM: 20.96729
 Etsy, Inc. - Common Stock
 
 
-Exchange: Generac Holdlings Inc. Common Stock
+Generac Holdlings Inc. Common Stock
 PE_Ratio: 34.65681
 Beta: 1.00107
 High52: 524.31
@@ -271,7 +271,7 @@ Net Profit Margin TTM: 14.89274
 Generac Holdlings Inc. Common Stock
 
 
-Exchange: Gladstone Land Corporation - Common Stock
+Gladstone Land Corporation - Common Stock
 PE_Ratio: 0.0
 Beta: 0.63212
 High52: 38.65
@@ -284,7 +284,7 @@ Net Profit Margin TTM: 4.66555
 Gladstone Land Corporation - Common Stock
 
 
-Exchange: Goldman Sachs Group, Inc. (The) Common Stock
+Goldman Sachs Group, Inc. (The) Common Stock
 PE_Ratio: 5.29306
 Beta: 1.45788
 High52: 426.1582
@@ -297,7 +297,7 @@ Net Profit Margin TTM: 33.29025
 Goldman Sachs Group, Inc. (The) Common Stock
 
 
-Exchange: Grindrod Shipping Holdings Ltd. - Ordinary Shares
+Grindrod Shipping Holdings Ltd. - Ordinary Shares
 PE_Ratio: 3.77131
 Beta: 0.86658
 High52: 28.4668
@@ -310,7 +310,7 @@ Net Profit Margin TTM: 29.09953
 Grindrod Shipping Holdings Ltd. - Ordinary Shares
 
 
-Exchange: HP Inc. Common Stock
+HP Inc. Common Stock
 PE_Ratio: 7.12512
 Beta: 0.98178
 High52: 41.47
@@ -323,7 +323,7 @@ Net Profit Margin TTM: 10.05257
 HP Inc. Common Stock
 
 
-Exchange: Halliburton Company Common Stock
+Halliburton Company Common Stock
 PE_Ratio: 23.14616
 Beta: 2.43054
 High52: 39.57
@@ -336,7 +336,7 @@ Net Profit Margin TTM: 9.59791
 Halliburton Company Common Stock
 
 
-Exchange: Home Depot, Inc. (The) Common Stock
+Home Depot, Inc. (The) Common Stock
 PE_Ratio: 19.51065
 Beta: 1.04214
 High52: 420.61
@@ -349,7 +349,7 @@ Net Profit Margin TTM: 10.87148
 Home Depot, Inc. (The) Common Stock
 
 
-Exchange: Honeywell International Inc. - Common Stock
+Honeywell International Inc. - Common Stock
 PE_Ratio: 24.35362
 Beta: 1.12429
 High52: 236.86
@@ -362,7 +362,7 @@ Net Profit Margin TTM: 16.31193
 Honeywell International Inc. - Common Stock
 
 
-Exchange: I-MAB - American Depositary Shares
+I-MAB - American Depositary Shares
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 85.4
@@ -375,7 +375,7 @@ Net Profit Margin TTM: 0.0
 I-MAB - American Depositary Shares
 
 
-Exchange: Integrated Media Technology Limited - Ordinary Shares
+Integrated Media Technology Limited - Ordinary Shares
 PE_Ratio: 27.20665
 Beta: 2.89648
 High52: 38.478
@@ -388,7 +388,7 @@ Net Profit Margin TTM: 29.35707
 Integrated Media Technology Limited - Ordinary Shares
 
 
-Exchange: Intel Corporation - Common Stock
+Intel Corporation - Common Stock
 PE_Ratio: 9.78776
 Beta: 0.55547
 High52: 68.49
@@ -401,7 +401,7 @@ Net Profit Margin TTM: 25.14173
 Intel Corporation - Common Stock
 
 
-Exchange: International Business Machines Corporation Common Stock
+International Business Machines Corporation Common Stock
 PE_Ratio: 24.71531
 Beta: 1.09334
 High52: 145.9873
@@ -414,7 +414,7 @@ Net Profit Margin TTM: 8.21796
 International Business Machines Corporation Common Stock
 
 
-Exchange: JP Morgan Chase & Co. Common Stock
+JP Morgan Chase & Co. Common Stock
 PE_Ratio: 8.54323
 Beta: 1.09843
 High52: 172.96
@@ -427,7 +427,7 @@ Net Profit Margin TTM: 39.73234
 JP Morgan Chase & Co. Common Stock
 
 
-Exchange: KLA Corporation  - Common Stock
+KLA Corporation  - Common Stock
 PE_Ratio: 18.17019
 Beta: 1.26567
 High52: 457.12
@@ -440,7 +440,7 @@ Net Profit Margin TTM: 36.57036
 KLA Corporation  - Common Stock
 
 
-Exchange: McDonald's Corporation Common Stock
+McDonald's Corporation Common Stock
 PE_Ratio: 25.34726
 Beta: 0.60754
 High52: 271.15
@@ -453,7 +453,7 @@ Net Profit Margin TTM: 32.49034
 McDonald's Corporation Common Stock
 
 
-Exchange: Merck & Company, Inc. Common Stock (new)
+Merck & Company, Inc. Common Stock (new)
 PE_Ratio: 17.83791
 Beta: 0.45332
 High52: 91.4
@@ -466,7 +466,7 @@ Net Profit Margin TTM: 25.37369
 Merck & Company, Inc. Common Stock (new)
 
 
-Exchange: Microsoft Corporation - Common Stock
+Microsoft Corporation - Common Stock
 PE_Ratio: 32.06354
 Beta: 0.91429
 High52: 349.67
@@ -479,7 +479,7 @@ Net Profit Margin TTM: 38.49856
 Microsoft Corporation - Common Stock
 
 
-Exchange: Monolithic Power Systems, Inc. - Common Stock
+Monolithic Power Systems, Inc. - Common Stock
 PE_Ratio: 86.38605
 Beta: 0.93586
 High52: 580.0
@@ -492,7 +492,7 @@ Net Profit Margin TTM: 20.03837
 Monolithic Power Systems, Inc. - Common Stock
 
 
-Exchange: NVIDIA Corporation - Common Stock
+NVIDIA Corporation - Common Stock
 PE_Ratio: 62.95658
 Beta: 1.44479
 High52: 346.47
@@ -505,7 +505,7 @@ Net Profit Margin TTM: 36.23765
 NVIDIA Corporation - Common Stock
 
 
-Exchange: NXP Semiconductors N.V. - Common Stock
+NXP Semiconductors N.V. - Common Stock
 PE_Ratio: 25.34885
 Beta: 1.40397
 High52: 239.91
@@ -518,7 +518,7 @@ Net Profit Margin TTM: 17.24668
 NXP Semiconductors N.V. - Common Stock
 
 
-Exchange: Nike, Inc. Common Stock
+Nike, Inc. Common Stock
 PE_Ratio: 34.1879
 Beta: 0.96441
 High52: 179.1
@@ -531,7 +531,7 @@ Net Profit Margin TTM: 13.06279
 Nike, Inc. Common Stock
 
 
-Exchange: Nurix Therapeutics, Inc. - Common stock
+Nurix Therapeutics, Inc. - Common stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 37.425
@@ -544,7 +544,7 @@ Net Profit Margin TTM: 0.0
 Nurix Therapeutics, Inc. - Common stock
 
 
-Exchange: Occidental Petroleum Corporation Common Stock
+Occidental Petroleum Corporation Common Stock
 PE_Ratio: 28.05134
 Beta: 2.08533
 High52: 63.24
@@ -557,7 +557,7 @@ Net Profit Margin TTM: 10.68065
 Occidental Petroleum Corporation Common Stock
 
 
-Exchange: Procter & Gamble Company (The) Common Stock
+Procter & Gamble Company (The) Common Stock
 PE_Ratio: 28.07547
 Beta: 0.43502
 High52: 165.35
@@ -570,7 +570,7 @@ Net Profit Margin TTM: 18.53956
 Procter & Gamble Company (The) Common Stock
 
 
-Exchange: Rackspace Technology, Inc. - Common Stock
+Rackspace Technology, Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 26.43
@@ -583,7 +583,7 @@ Net Profit Margin TTM: 0.0
 Rackspace Technology, Inc. - Common Stock
 
 
-Exchange: Rubius Therapeutics, Inc. - Common Stock
+Rubius Therapeutics, Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 2.45582
 High52: 29.94
@@ -596,7 +596,7 @@ Net Profit Margin TTM: 0.0
 Rubius Therapeutics, Inc. - Common Stock
 
 
-Exchange: Salesforce, Inc. Common Stock
+Salesforce, Inc. Common Stock
 PE_Ratio: 133.3333
 Beta: 1.10195
 High52: 311.75
@@ -609,7 +609,7 @@ Net Profit Margin TTM: 5.4507
 Salesforce, Inc. Common Stock
 
 
-Exchange: Shoals Technologies Group, Inc. - Class A Common Stock
+Shoals Technologies Group, Inc. - Class A Common Stock
 PE_Ratio: 599.7711
 Beta: 0.0
 High52: 37.61
@@ -622,7 +622,7 @@ Net Profit Margin TTM: 1.8498
 Shoals Technologies Group, Inc. - Class A Common Stock
 
 
-Exchange: Singularity Future Technology Ltd. - Common Stock
+Singularity Future Technology Ltd. - Common Stock
 PE_Ratio: 0.0
 Beta: 0.31104
 High52: 19.86
@@ -635,7 +635,7 @@ Net Profit Margin TTM: 0.0
 Singularity Future Technology Ltd. - Common Stock
 
 
-Exchange: SolarEdge Technologies, Inc. - Common Stock
+SolarEdge Technologies, Inc. - Common Stock
 PE_Ratio: 102.8716
 Beta: 0.96334
 High52: 389.71
@@ -648,7 +648,7 @@ Net Profit Margin TTM: 8.61414
 SolarEdge Technologies, Inc. - Common Stock
 
 
-Exchange: SunOpta, Inc. - Common Stock
+SunOpta, Inc. - Common Stock
 PE_Ratio: 0.0
 Beta: 1.87465
 High52: 15.96
@@ -661,7 +661,7 @@ Net Profit Margin TTM: 0.0
 SunOpta, Inc. - Common Stock
 
 
-Exchange: Sunshine Biopharma Inc. - Common stock
+Sunshine Biopharma Inc. - Common stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 12560.0
@@ -674,7 +674,7 @@ Net Profit Margin TTM: 0.0
 Sunshine Biopharma Inc. - Common stock
 
 
-Exchange: The Travelers Companies, Inc. Common Stock
+The Travelers Companies, Inc. Common Stock
 PE_Ratio: 12.52977
 Beta: 0.70813
 High52: 187.98
@@ -687,7 +687,7 @@ Net Profit Margin TTM: 10.51755
 The Travelers Companies, Inc. Common Stock
 
 
-Exchange: Twitter, Inc. Common Stock
+Twitter, Inc. Common Stock
 PE_Ratio: 0.0
 Beta: 0.76045
 High52: 73.34
@@ -700,7 +700,7 @@ Net Profit Margin TTM: 0.0
 Twitter, Inc. Common Stock
 
 
-Exchange: UnitedHealth Group Incorporated Common Stock (DE)
+UnitedHealth Group Incorporated Common Stock (DE)
 PE_Ratio: 29.69905
 Beta: 0.86926
 High52: 538.28
@@ -713,7 +713,7 @@ Net Profit Margin TTM: 6.16557
 UnitedHealth Group Incorporated Common Stock (DE)
 
 
-Exchange: Verizon Communications Inc. Common Stock
+Verizon Communications Inc. Common Stock
 PE_Ratio: 9.90352
 Beta: 0.35999
 High52: 59.85
@@ -726,7 +726,7 @@ Net Profit Margin TTM: 16.92799
 Verizon Communications Inc. Common Stock
 
 
-Exchange: Zentalis Pharmaceuticals, Inc. - common stock
+Zentalis Pharmaceuticals, Inc. - common stock
 PE_Ratio: 0.0
 Beta: 0.0
 High52: 87.19
@@ -739,7 +739,7 @@ Net Profit Margin TTM: 0.0
 Zentalis Pharmaceuticals, Inc. - common stock
 
 
-Exchange: description
+description
 PE_Ratio: P/E Ratio
 Beta: Beta
 High52: High-52

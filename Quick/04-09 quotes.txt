@@ -4,6 +4,7 @@ Open: 41.37
 Bid: 43.1
 Ask: 43.18
 Net Change: 5.29%
+Market Change: 5.12%
 APA Corporation - Common Stock
 
 
@@ -13,6 +14,7 @@ Open: 183.0
 Bid: 183.4
 Ask: 183.7
 Net Change: 0.72%
+Market Change: 0.72%
 American Express Company Common Stock
 
 
@@ -22,6 +24,7 @@ Open: 171.78
 Bid: 169.72
 Ask: 169.8
 Net Change: -1.37%
+Market Change: -1.36%
 Apple Inc. - Common Stock
 
 
@@ -31,6 +34,7 @@ Open: 11.47
 Bid: 11.57
 Ask: 12.62
 Net Change: 9.04%
+Market Change: 8.69%
 Berry Corporation (bry) - Common Stock
 
 
@@ -40,6 +44,7 @@ Open: 37.42
 Bid: 47.51
 Ask: 50.0
 Net Change: 27.38%
+Market Change: 25.92%
 Bicycle Therapeutics plc - American Depositary Shares
 
 
@@ -49,6 +54,7 @@ Open: 13.97
 Bid: 10.69
 Ask: 10.7
 Net Change: -40.16%
+Market Change: -40.16%
 BioCryst Pharmaceuticals, Inc. - Common Stock
 
 
@@ -58,6 +64,7 @@ Open: 4.8
 Bid: 4.2
 Ask: 4.22
 Net Change: 3.96%
+Market Change: 4.46%
 Biofrontera Inc. - Common Stock
 
 
@@ -67,6 +74,7 @@ Open: 176.54
 Bid: 174.7
 Ask: 174.95
 Net Change: -1.56%
+Market Change: -1.70%
 Boeing Company (The) Common Stock
 
 
@@ -76,6 +84,7 @@ Open: 22.63
 Bid: 11.15
 Ask: 11.32
 Net Change: -50.57%
+Market Change: -50.57%
 C4 Therapeutics, Inc. - Common Stock
 
 
@@ -85,6 +94,7 @@ Open: 167.05
 Bid: 170.01
 Ask: 170.19
 Net Change: 1.69%
+Market Change: 1.74%
 Chevron Corporation Common Stock
 
 
@@ -94,6 +104,7 @@ Open: 54.84
 Bid: 54.19
 Ask: 54.35
 Net Change: -0.64%
+Market Change: -0.64%
 Cisco Systems, Inc. - Common Stock
 
 
@@ -103,6 +114,7 @@ Open: 5.35
 Bid: 5.6
 Ask: 5.89
 Net Change: 9.48%
+Market Change: 7.25%
 Conduent Incorporated - Common Stock
 
 
@@ -112,6 +124,7 @@ Open: 15.33
 Bid: 16.01
 Ask: 16.99
 Net Change: 7.33%
+Market Change: 7.33%
 Conn's, Inc. - Common Stock
 
 
@@ -121,6 +134,7 @@ Open: 61.22
 Bid: 64.0
 Ask: 66.0
 Net Change: 7.54%
+Market Change: 5.11%
 Constellation Energy Corporation - Common Stock
 
 
@@ -130,6 +144,7 @@ Open: 27.18
 Bid: 28.12
 Ask: 28.82
 Net Change: 7.32%
+Market Change: 7.32%
 Coterra Energy Inc. Common Stock
 
 
@@ -139,6 +154,7 @@ Open: 30.51
 Bid: 32.2
 Ask: 32.35
 Net Change: 6.61%
+Market Change: 6.42%
 DISH Network Corporation - Class A Common Stock
 
 
@@ -148,6 +164,7 @@ Open: 23.07
 Bid: 24.26
 Ask: 24.42
 Net Change: 5.81%
+Market Change: 5.85%
 Discovery, Inc. - Series A Common Stock
 
 
@@ -157,6 +174,7 @@ Open: 23.15
 Bid: 22.8
 Ask: 24.5
 Net Change: 6.07%
+Market Change: 5.81%
 Discovery, Inc. - Series C Common Stock
 
 
@@ -166,6 +184,7 @@ Open: 122.0
 Bid: 127.03
 Ask: 127.59
 Net Change: 5.19%
+Market Change: 5.31%
 EOG Resources, Inc. Common Stock
 
 
@@ -175,6 +194,7 @@ Open: 283.56
 Bid: 307.51
 Ask: 310.0
 Net Change: 10.13%
+Market Change: 10.13%
 EPAM Systems, Inc. Common Stock
 
 
@@ -184,6 +204,7 @@ Open: 204.0
 Bid: 192.0
 Ask: 195.0
 Net Change: -6.74%
+Market Change: -5.77%
 Enphase Energy, Inc. - Common Stock
 
 
@@ -193,6 +214,7 @@ Open: 120.18
 Bid: 116.3
 Ask: 116.99
 Net Change: -3.60%
+Market Change: -3.61%
 Etsy, Inc. - Common Stock
 
 
@@ -202,6 +224,7 @@ Open: 7.03
 Bid: 7.35
 Ask: 7.67
 Net Change: 9.60%
+Market Change: 7.45%
 Falcon Minerals Corporation - Class A Common Stock
 
 
@@ -211,6 +234,7 @@ Open: 296.16
 Bid: 287.01
 Ask: 287.5
 Net Change: -3.22%
+Market Change: -3.22%
 Generac Holdlings Inc. Common Stock
 
 
@@ -220,6 +244,7 @@ Open: 37.44
 Bid: 40.5
 Ask: 40.73
 Net Change: 9.38%
+Market Change: 9.11%
 Gladstone Land Corporation - Common Stock
 
 
@@ -229,6 +254,7 @@ Open: 313.58
 Bid: 321.4
 Ask: 325.0
 Net Change: 2.30%
+Market Change: 2.31%
 Goldman Sachs Group, Inc. (The) Common Stock
 
 
@@ -238,6 +264,7 @@ Open: 23.29
 Bid: 24.5
 Ask: 26.43
 Net Change: 9.02%
+Market Change: 7.56%
 Grindrod Shipping Holdings Ltd. - Ordinary Shares
 
 
@@ -247,6 +274,7 @@ Open: 39.11
 Bid: 38.57
 Ask: 38.73
 Net Change: -3.57%
+Market Change: -3.57%
 HP Inc. Common Stock
 
 
@@ -256,6 +284,7 @@ Open: 38.19
 Bid: 39.95
 Ask: 40.5
 Net Change: 5.80%
+Market Change: 5.83%
 Halliburton Company Common Stock
 
 
@@ -265,6 +294,7 @@ Open: 301.46
 Bid: 310.5
 Ask: 311.11
 Net Change: 2.76%
+Market Change: 2.76%
 Home Depot, Inc. (The) Common Stock
 
 
@@ -274,6 +304,7 @@ Open: 193.0
 Bid: 189.7
 Ask: 190.59
 Net Change: -1.41%
+Market Change: -1.32%
 Honeywell International Inc. - Common Stock
 
 
@@ -283,6 +314,7 @@ Open: 16.07
 Bid: 14.1
 Ask: 14.65
 Net Change: -8.38%
+Market Change: -11.38%
 I-MAB - American Depositary Shares
 
 
@@ -292,6 +324,7 @@ Open: 13.27
 Bid: 8.44
 Ask: 8.51
 Net Change: -37.07%
+Market Change: -35.62%
 Integrated Media Technology Limited - Ordinary Shares
 
 
@@ -301,6 +334,7 @@ Open: 47.28
 Bid: 47.03
 Ask: 47.07
 Net Change: -1.07%
+Market Change: -1.11%
 Intel Corporation - Common Stock
 
 
@@ -310,6 +344,7 @@ Open: 128.01
 Bid: 127.71
 Ask: 127.73
 Net Change: -0.64%
+Market Change: -0.64%
 International Business Machines Corporation Common Stock
 
 
@@ -319,6 +354,7 @@ Open: 131.67
 Bid: 133.55
 Ask: 134.0
 Net Change: 1.83%
+Market Change: 1.88%
 JP Morgan Chase & Co. Common Stock
 
 
@@ -328,6 +364,7 @@ Open: 349.55
 Bid: 340.51
 Ask: 341.21
 Net Change: -3.42%
+Market Change: -3.36%
 KLA Corporation  - Common Stock
 
 
@@ -337,6 +374,7 @@ Open: 253.04
 Bid: 251.1
 Ask: 251.99
 Net Change: -1.14%
+Market Change: -1.14%
 McDonald's Corporation Common Stock
 
 
@@ -346,6 +384,7 @@ Open: 86.64
 Bid: 86.66
 Ask: 87.68
 Net Change: 1.01%
+Market Change: 1.01%
 Merck & Company, Inc. Common Stock (new)
 
 
@@ -355,6 +394,7 @@ Open: 300.44
 Bid: 296.33
 Ask: 296.48
 Net Change: -1.67%
+Market Change: -1.62%
 Microsoft Corporation - Common Stock
 
 
@@ -364,6 +404,7 @@ Open: 430.09
 Bid: 410.59
 Ask: 414.99
 Net Change: -5.89%
+Market Change: -5.67%
 Monolithic Power Systems, Inc. - Common Stock
 
 
@@ -373,6 +414,7 @@ Open: 239.17
 Bid: 230.6
 Ask: 230.8
 Net Change: -4.76%
+Market Change: -4.66%
 NVIDIA Corporation - Common Stock
 
 
@@ -382,6 +424,7 @@ Open: 170.52
 Bid: 167.28
 Ask: 167.63
 Net Change: -3.06%
+Market Change: -3.13%
 NXP Semiconductors N.V. - Common Stock
 
 
@@ -391,6 +434,7 @@ Open: 129.44
 Bid: 128.0
 Ask: 128.49
 Net Change: -0.95%
+Market Change: -0.95%
 Nike, Inc. Common Stock
 
 
@@ -400,6 +444,7 @@ Open: 13.31
 Bid: 14.3
 Ask: 15.37
 Net Change: 16.67%
+Market Change: 11.76%
 Nurix Therapeutics, Inc. - Common stock
 
 
@@ -409,6 +454,7 @@ Open: 57.7
 Bid: 61.67
 Ask: 61.88
 Net Change: 7.14%
+Market Change: 7.14%
 Occidental Petroleum Corporation Common Stock
 
 
@@ -418,6 +464,7 @@ Open: 159.7
 Bid: 160.05
 Ask: 160.3
 Net Change: 0.78%
+Market Change: 0.78%
 Procter & Gamble Company (The) Common Stock
 
 
@@ -427,6 +474,7 @@ Open: 10.32
 Bid: 9.45
 Ask: 9.7
 Net Change: -13.24%
+Market Change: -13.24%
 Rackspace Technology, Inc. - Common Stock
 
 
@@ -436,6 +484,7 @@ Open: 5.93
 Bid: 3.24
 Ask: 3.27
 Net Change: -44.71%
+Market Change: -44.71%
 Rubius Therapeutics, Inc. - Common Stock
 
 
@@ -445,6 +494,7 @@ Open: 198.64
 Bid: 196.71
 Ask: 197.17
 Net Change: -1.49%
+Market Change: -1.49%
 Salesforce, Inc. Common Stock
 
 
@@ -454,6 +504,7 @@ Open: 14.12
 Bid: 13.3
 Ask: 13.63
 Net Change: -13.30%
+Market Change: -13.93%
 Shoals Technologies Group, Inc. - Class A Common Stock
 
 
@@ -463,6 +514,7 @@ Open: 19.69
 Bid: 12.9
 Ask: 13.3
 Net Change: -34.78%
+Market Change: -34.78%
 Singularity Future Technology Ltd. - Common Stock
 
 
@@ -472,6 +524,7 @@ Open: 312.93
 Bid: 298.0
 Ask: 309.99
 Net Change: -4.72%
+Market Change: -4.24%
 SolarEdge Technologies, Inc. - Common Stock
 
 
@@ -481,6 +534,7 @@ Open: 5.42
 Bid: 5.95
 Ask: 6.0
 Net Change: 10.91%
+Market Change: 9.98%
 SunOpta, Inc. - Common Stock
 
 
@@ -490,6 +544,7 @@ Open: 7.48
 Bid: 5.55
 Ask: 5.56
 Net Change: -42.38%
+Market Change: -42.38%
 Sunshine Biopharma Inc. - Common stock
 
 
@@ -499,6 +554,7 @@ Open: 183.74
 Bid: 179.75
 Ask: 195.86
 Net Change: 1.52%
+Market Change: 1.52%
 The Travelers Companies, Inc. Common Stock
 
 
@@ -508,6 +564,7 @@ Open: 47.3
 Bid: 46.2
 Ask: 46.43
 Net Change: -3.75%
+Market Change: -3.75%
 Twitter, Inc. Common Stock
 
 
@@ -517,6 +574,7 @@ Open: 539.0
 Bid: 545.11
 Ask: 545.96
 Net Change: 1.68%
+Market Change: 1.68%
 UnitedHealth Group Incorporated Common Stock (DE)
 
 
@@ -526,6 +584,7 @@ Open: 52.73
 Bid: 53.4
 Ask: 53.5
 Net Change: 1.63%
+Market Change: 1.58%
 Verizon Communications Inc. Common Stock
 
 
@@ -535,6 +594,7 @@ Open: 48.22
 Bid: 34.5
 Ask: 35.6
 Net Change: -26.97%
+Market Change: -28.92%
 Zentalis Pharmaceuticals, Inc. - common stock
 
 

@@ -8,16 +8,23 @@
 from pprint import pprint
 #import json
 
+import time
 import os
 import requests
 import csv
 from datetime import date
+today = date.today()
+today = str(today)
 
+path = f"./{today}"
+exist = os.path.exists(path)
+if not exist:
+  os.makedirs(path)
 
 my_secret = os.environ['POOP']
 td_consumer_key =my_secret
-today = date.today()
-today = str(today)
+
+
 quotes_url = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/quotes?'
 history_url = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory'
 base = "https://api.tdameritrade.com/v1/accounts/{account}"
@@ -53,7 +60,7 @@ def get_biggest_daily_movers():
       movers_symbols.append(x['symbol'])
       big_movers.update({movers_symbols[-1] : temp})
     # Dictionary -> CSV
-  with open(f'{today[5:]}\'s big moves.csv', 'w+') as f: 
+  with open(f'./{today}/{today[5:]}\'s big moves.csv', 'w') as f: 
     writer = csv.writer(f)
     writer.writerow(fields)
     for x in big_movers:
@@ -88,7 +95,7 @@ def get_quotes(tickers):
     data_dictionary.update({data[stock]['description']:temp})
     
   # Dictionary -> CSV
-  with open(f'{today[5:]}\'s_quotes.csv', 'w+') as f: 
+  with open(f'./{today}/{today[5:]}\'s_quotes.csv', 'w') as f: 
     writer = csv.writer(f)
     writer.writerow(fields)
     for x in data_dictionary:
@@ -100,6 +107,7 @@ def get_fundamentals(ticker):
   # Data points:
   fields = ['description',
             'Exchange',
+            'Earnings Per Share (Growth %)',
             'Beta',
             'P/E Ratio',
             'High-52',
@@ -118,6 +126,7 @@ def get_fundamentals(ticker):
       # Json -> Dictionary
       temp = (data[x]['description'],
               data[x]['exchange'],
+              data[x]['fundamental']['epsChangeYear'],
               data[x]['fundamental']['beta'],
               data[x]['fundamental']['peRatio'],
               data[x]['fundamental']['high52'],
@@ -127,10 +136,10 @@ def get_fundamentals(ticker):
       fundamentals_dict.update({data[x]['description']: temp})
     except KeyError:
       print("KEY ERROR:")
-      print(data[x])
       continue
+
  # Dictionary -> CSV
-  with open(f'{today[5:]}\'s fundamentals.csv', 'w+') as f: 
+  with open(f'./{today}/{today[5:]}\'s fundamentals.csv', 'w') as f: 
     writer = csv.writer(f)
     writer.writerow(fields)
     for x in fundamentals_dict:
@@ -160,10 +169,13 @@ def options():
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   arr = get_biggest_daily_movers()
+  time.sleep(10)
   # Get Quotes for all of those big movers:
   get_quotes(arr)
+  time.sleep(10)
   # Get fundamentals on the biggest movers:
   get_fundamentals(arr)
+  
   print(f'Done! check {today}\'s folder!')
 
 

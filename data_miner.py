@@ -7,7 +7,7 @@
 # Prints JSON nicely:
 from pprint import pprint
 #import json
-
+from datetime import datetime
 import time
 import os
 import requests
@@ -160,7 +160,6 @@ def get_fundamentals(ticker):
 def get_history(ticker):
   candleStick_dict = {}
   fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume']
-  print(ticker)
   num = 0
   for i in ticker:
     full_url = endpoint.format(stock_ticker=i,periodType='month',period=3,frequencyType='daily',frequency=1)
@@ -193,29 +192,38 @@ def get_history(ticker):
 
 #Options arent working!
 def options():
+  ts =00
+  datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
   print('options:')
-  endpoint = options_url.format(stock_ticker = 'CNNE',
-      contractType = 'PUT',
-      date='2022-04-09')
-  options = requests.get(url=endpoint, 
+  base_url = 'https://api.tdameritrade.com/v1/marketdata/chains?&symbol={stock_ticker}&contractType={contractType}&fromDate={date}&toDate={date2}'
+  endpoint = base_url.format(stock_ticker = 'AAL',
+    contractType = 'PUT',
+    date='2022-05-10',date2='2022-05-17')
+  data = requests.get(url=endpoint, 
               params={'apikey' : td_consumer_key})
-  pprint(options.json())
+  
+  #content = json.loads(page.content)
+  data = data.json()
+  pprint(data)
+  print(type(data))
+  
+
 
 
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
-  arr = get_biggest_daily_movers()
-  time.sleep(5)
-  print("40 Seconds.")
+  #arr = get_biggest_daily_movers()
+  #time.sleep(5)
+  #print("40 Seconds.")
   # Get Quotes for all of those big movers:
-  get_quotes(arr)
-  time.sleep(20)
+  #get_quotes(arr)
+  #time.sleep(20)
   print("30 Seconds..")
   # Get fundamentals on the biggest movers:
-  get_fundamentals(arr)
-  time.sleep(20)
+  #get_fundamentals(arr)
+  #time.sleep(20)
   print("20 Seconds...")
-  get_history(arr[0])
+  #get_history(arr[0])
   print(f'Done! check {today}\'s folder!')
-
+  options()
 

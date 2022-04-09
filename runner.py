@@ -33,23 +33,24 @@ def import_from_csv():
           Low52 = row[6]
           MarketCap = row[7]
           MarketCapFloat = row[8]
-          fundamentals.update({description : (description, Exchange, EPS, Beta, PE_Ratio,High52,Low52,MarketCap,MarketCapFloat)})
+          DividendPayAmount = row[9]
+          DividendPayDate = row[10]
+          NetProfitMarginTTM = row[11]
+          fundamentals.update({description : (description, Exchange, EPS, Beta, PE_Ratio,High52,Low52,MarketCap,MarketCapFloat,DividendPayAmount,DividendPayDate,NetProfitMarginTTM)})
         
           
   dict1 = OrderedDict(sorted(quotes.items()))
   dict2 = OrderedDict(sorted(fundamentals.items()))
-  with open(f'./{today}/{today[5:]}.txt', 'w+') as fst:
+  with open(f'./{today[5:]}.txt', 'w+') as fst:
     for (key,value), (k2,v2) in zip(dict1.items(), dict2.items()):
         fst.write(f'{key}\n')
         fst.write(f'Exchange: {v2[1]}\n')
         fst.write(f'Open: {value[1]}\n')
         fst.write(f'Bid: {value[2]}\n')
         fst.write(f'Ask: {value[3]}\n')
-        fst.write(f'Net Change: {value[4]}%\n')
+        net_change = float(value[4])
+        fst.write(f'Net Change: {net_change :0.2f}%\n')
         fst.write(f'PE_Ratio: {v2[4]}\n')
-        if not len(value[4])> 12: 
-          temp = float(value[4]) * 100
-          fst.write(f'Earning\'s Per share: {temp}\n')
         if not len(value[5])> 12: 
           temp = float(value[5]) * 100
           fst.write(f'Earning\'s Per share: {temp}%\n')
@@ -58,6 +59,11 @@ def import_from_csv():
         fst.write(f'Low52: {v2[6]}\n')
         fst.write(f'MarketCap: {v2[7]}\n')
         fst.write(f'MarketCap Float: {v2[8]}\n')
+        fst.write(f'Dividend Pay Ammount: {v2[9]}\n')
+        fst.write(f'Dividend Pay Date: {v2[10][:11]}\n')
+        fst.write(f'Net Profit Margin TTM: {v2[11]}\n')
+      
+     
         fst.write(k2 + '\n\n\n')
 
     

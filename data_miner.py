@@ -26,7 +26,7 @@ td_consumer_key =my_secret
 
 
 quotes_url = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/quotes?'
-history_url = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory'
+history_url = endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
 base = "https://api.tdameritrade.com/v1/accounts/{account}"
 movers_url = "https://api.tdameritrade.com/v1/marketdata/{index}/movers"
 fundamentals_url = 'https://api.tdameritrade.com/v1/instruments?&symbol={stock_ticker}&projection={projection}'
@@ -113,8 +113,12 @@ def get_fundamentals(ticker):
             'High-52',
             'Low-52',
             'Market Cap',
-            'Market Cap Float']
+            'Market Cap Float',
+            'Dividend Pay: ',
+            'Dividend Pay Date:',
+            'Net Profit Margin (TTM)']
   # Fetch data:
+  
   for x in ticker:
     try:
       endpoint = fundamentals_url.format(stock_ticker = x,
@@ -122,6 +126,7 @@ def get_fundamentals(ticker):
       fundamentals = requests.get(url=endpoint, 
                   params={'apikey' : td_consumer_key})
       # Jsonify()
+   
       data = fundamentals.json()
       # Json -> Dictionary
       temp = (data[x]['description'],
@@ -132,12 +137,16 @@ def get_fundamentals(ticker):
               data[x]['fundamental']['high52'],
               data[x]['fundamental']['low52'],
               data[x]['fundamental']['marketCap'],
-              data[x]['fundamental']['marketCapFloat'] )
+              data[x]['fundamental']['marketCapFloat'],
+              data[x]['fundamental']['dividendPayAmount'],
+              data[x]['fundamental']['dividendPayDate'],
+              data[x]['fundamental']['netProfitMarginTTM'])
+      
       fundamentals_dict.update({data[x]['description']: temp})
     except KeyError:
       print("KEY ERROR:")
       continue
-
+  print(fundamentals)
  # Dictionary -> CSV
   with open(f'./{today}/{today[5:]}\'s fundamentals.csv', 'w') as f: 
     writer = csv.writer(f)
@@ -148,11 +157,40 @@ def get_fundamentals(ticker):
 
 
 
-def get_history():
-  endpoint = history_url.format(stock_ticker = 'AAL')
-  history = requests.get(url=endpoint, 
-           params={'apikey' : td_consumer_key})
-  pprint(history.json())
+def get_history(ticker):
+  candleStick_dict = {}
+  fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume']
+  print(ticker)
+  num = 0
+  for i in ticker:
+    full_url = endpoint.format(stock_ticker=i,periodType='month',period=3,frequencyType='daily',frequency=1)
+    page = requests.get(url=full_url,
+                        params={'apikey' : td_consumer_key})
+    #content = json.loads(page.content)
+    data = page.json()
+    temp = data['candles']
+
+    for x in temp:
+      z = (  num,
+           x['open'],
+           x['close']
+           ,x['high']
+           ,x['low'],
+           x['volume'] )
+      candleStick_dict.update({num : z})
+      num += 1
+    
+  with open(f'./{today}/{today[5:]}\'s candle_stick.csv', 'w') as f: 
+    writer = csv.writer(f)
+    f.write(f'ticker: {ticker}\n')
+    writer.writerow(fields)
+    for x in candleStick_dict:
+      writer.writerow(candleStick_dict[x])
+  return 0  
+
+
+
+
 #Options arent working!
 def options():
   print('options:')
@@ -164,18 +202,20 @@ def options():
   pprint(options.json())
 
 
-
-
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   arr = get_biggest_daily_movers()
-  time.sleep(10)
+  time.sleep(5)
+  print("40 Seconds.")
   # Get Quotes for all of those big movers:
   get_quotes(arr)
-  time.sleep(10)
+  time.sleep(20)
+  print("30 Seconds..")
   # Get fundamentals on the biggest movers:
   get_fundamentals(arr)
-  
+  time.sleep(20)
+  print("20 Seconds...")
+  get_history(arr[0])
   print(f'Done! check {today}\'s folder!')
 
 

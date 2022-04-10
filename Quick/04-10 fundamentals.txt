@@ -24,6 +24,32 @@ Net Profit Margin TTM: 0.0
 Boeing Company (The) Common Stock
 
 
+Meta Platforms, Inc. - Class A Common Stock
+PE_Ratio: 16.12649
+Beta: 1.39282
+High52: 384.33
+Low52: 185.82
+MarketCap: 606856.9
+MarketCap Float: 2296.488
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 33.38449
+Meta Platforms, Inc. - Class A Common Stock
+
+
+Netflix, Inc. - Common Stock
+PE_Ratio: 33.32962
+Beta: 0.97546
+High52: 700.9894
+Low52: 329.82
+MarketCap: 160781.2
+MarketCap Float: 437.3387
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 16.36976
+Netflix, Inc. - Common Stock
+
+
 Tesla, Inc.  - Common Stock
 PE_Ratio: 208.3643
 Beta: 2.08839
@@ -35,6 +61,19 @@ Dividend Pay Ammount: 0.0
 Dividend Pay Date:  
 Net Profit Margin TTM: 10.48622
 Tesla, Inc.  - Common Stock
+
+
+Twitter, Inc. Common Stock
+PE_Ratio: 0.0
+Beta: 0.77575
+High52: 73.34
+Low52: 31.3
+MarketCap: 37013.64
+MarketCap Float: 780.1086
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Twitter, Inc. Common Stock
 
 
 description

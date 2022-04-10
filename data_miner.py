@@ -163,10 +163,9 @@ def get_history(ticker):
   endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
  
   candleStick_dict = {}
-  fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume','SYM']
+  fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume','SYM', 'Date']
   num = 0
   for i in ticker:
-    
     full_url = endpoint.format(stock_ticker=i,periodType='month',period=3,frequencyType='daily',frequency=1)
     page = requests.get(url=full_url,
                         params={'apikey' : td_consumer_key})
@@ -175,13 +174,17 @@ def get_history(ticker):
     temp = data['candles']
     sym = f"${data['symbol']}"
     for x in temp:
+      curr_date = float(x['datetime'])
+      curr = datetime.utcfromtimestamp(curr_date/1000).strftime('%D-%M-%Y-')
+      curr = (curr[0:9]+curr[12:-1])
       z = (  num,
            x['open'],
            x['close'],
            x['high'],
            x['low'],
            x['volume'],
-           sym,)
+           sym,
+           curr)
       candleStick_dict.update({num : z})
       num += 1
     
@@ -191,7 +194,7 @@ def get_history(ticker):
     writer.writerow(fields)
     for x in candleStick_dict:
       writer.writerow(candleStick_dict[x])
-    writer.writerow(("---",'---','---','---','---','--','---','---'))
+    writer.writerow(("---",'---','---','---','---','--','---','---','----',))
   return 0  
 
 
@@ -220,16 +223,16 @@ def options():
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   #arr = get_biggest_daily_movers()
-  arr = ['AAPL', 'TSLA', 'BA']
-  time.sleep(5)
+  arr = ['AAPL', 'TSLA', 'BA','TWTR', 'FB', 'NFLX']
+  time.sleep(0.5)
   print("40 Seconds.")
   # Get Quotes for all of those big movers:
   get_quotes(arr)
-  time.sleep(5)
+  time.sleep(0.5)
   print("30 Seconds..")
   # Get fundamentals on the biggest movers:
   get_fundamentals(arr)
-  time.sleep(5)
+  time.sleep(0.5)
   print("20 Seconds...")
   # Get 3 month breakout on those movers (trend finding / hopping)
   get_history(arr)

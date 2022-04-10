@@ -3,6 +3,7 @@ from datetime import date
 from collections import OrderedDict
 import os
 import time
+from runner_algo import runner_algo
 # Variable
 path = "Quick"
 exist = os.path.exists(path)
@@ -61,7 +62,11 @@ def import_from_csv():
           high = row[3]
           low = row[4]
           sym = row[6]
-          candle_stick.update({days: (days, high, low, sym)})
+          date = row[7]
+          candle_stick.update({days: (days,
+                                      high,
+                                      low,
+                                      sym,date)})
         k += 1
         
           
@@ -111,54 +116,8 @@ def quantative_value():
     print(f'EPS: {x[2]}\n')
    
 
-def trend_checker(arg):
- with open(f'./Quick/{today[5:]} candle_read.txt', 'w+') as fst2:
-  breakout = 0 
-  last_high = 0
-  breakout = candle_stick.get('1')
-  breakout = float(breakout[2])
-  count = 0
-  for (key,value) in candle_stick.items():
-     #print(f'Stablization : {breakout}')
-     try:
-       
-      if  float(value[1]) >= breakout: 
-        if  float(value[1]) > last_high:
-          count += 1
-          if count >= arg:
-            breakout = float(value[1])
-            yesterday = str(int(value[0]) -1)
-            if count == arg:
-              fst2.write("\nBUY {value[3}\n")
-              print("\nBUY")
-            else:
-              fst2.write("\nHOLD\n")
-              print("\nHOLD")
-            fst2.write(f"Breakout {count} Days:\n")
-            print(f"BREAKOUT {count} Days:")
-            fst2.write(f'last high (day {value[0]}): {last_high}\n')
-            print(f'last high (day {value[0]}): {last_high}')
-            fst2.write(f'Today\'s high (day {yesterday}): {value[1]}\n')
-            print(f'Today\'s high (day {yesterday}): {value[1]}\n')
-
-          last_high = float(value[1])
-        else:
-          count = 0
-          last_high = breakout
-       
-      elif float(value[1]) < breakout:
-        breakout = float(value[1])
-        count = 0
-        print(f"SELL: {value[3]}")
-        print(f'\t<---- Decreasing : {breakout}')
-        fst2.write(f"SELL: {value[3]}\n")
-        fst2.write(f'\t<---- Decreasing : {breakout}\n')
-     except ValueError:
-       print("Value error")
-       continue
-     except TypeError:
-       print("Type error")
-       continue
+def trend_checker(minimum_days_momentum,dollars):
+  runner_algo(candle_stick,today,minimum_days_momentum,dollars)
           
     
 # Runner
@@ -166,5 +125,5 @@ if __name__ == "__main__":
   import_from_csv()
   time.sleep(0.5)
   #quantative_value()
-  trend_checker(2)
-  print("DONE!\n")
+  trend_checker(2,10000) # Min number or trending days & money in dollars
+  print("Check!\n")

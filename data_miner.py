@@ -223,7 +223,8 @@ def options():
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   #arr = get_biggest_daily_movers()
-  arr = ['AAPL', 'TSLA', 'BA','TWTR', 'FB', 'NFLX']
+  #arr = ['AAPL', 'TSLA', 'BA','TWTR', 'FB', 'NFLX']
+  arr= ['AAPL']
   time.sleep(0.5)
   print("40 Seconds.")
   # Get Quotes for all of those big movers:

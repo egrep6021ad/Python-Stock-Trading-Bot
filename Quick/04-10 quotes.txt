@@ -8,56 +8,6 @@ Market Change: 0.00%
 Apple Inc. - Common Stock
 
 
-Boeing Company (The) Common Stock
-Exchange: Boeing Company (The) Common Stock
-Open: 176.54
-Bid: 174.7
-Ask: 174.95
-Net Change: -0.29%
-Market Change: 0.00%
-Boeing Company (The) Common Stock
-
-
-Meta Platforms, Inc. - Class A Common Stock
-Exchange: Meta Platforms, Inc. - Class A Common Stock
-Open: 222.38
-Bid: 222.0
-Ask: 222.01
-Net Change: -0.15%
-Market Change: 0.00%
-Meta Platforms, Inc. - Class A Common Stock
-
-
-Netflix, Inc. - Common Stock
-Exchange: Netflix, Inc. - Common Stock
-Open: 361.96
-Bid: 354.65
-Ask: 355.24
-Net Change: -0.18%
-Market Change: 0.00%
-Netflix, Inc. - Common Stock
-
-
-Tesla, Inc.  - Common Stock
-Exchange: Tesla, Inc.  - Common Stock
-Open: 1043.21
-Bid: 1022.0
-Ask: 1022.4
-Net Change: -0.33%
-Market Change: 0.00%
-Tesla, Inc.  - Common Stock
-
-
-Twitter, Inc. Common Stock
-Exchange: Twitter, Inc. Common Stock
-Open: 47.3
-Bid: 46.2
-Ask: 46.43
-Net Change: 0.15%
-Market Change: 0.00%
-Twitter, Inc. Common Stock
-
-
 description
 Exchange: description
 Open: Open Price

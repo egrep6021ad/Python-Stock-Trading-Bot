@@ -1,0 +1,38 @@
+Apple Inc. - Common Stock
+Exchange: Apple Inc. - Common Stock
+Open: 171.78
+Bid: 169.72
+Ask: 169.8
+Net Change: -0.18%
+Market Change: 0.00%
+Apple Inc. - Common Stock
+
+
+Boeing Company (The) Common Stock
+Exchange: Boeing Company (The) Common Stock
+Open: 176.54
+Bid: 174.7
+Ask: 174.95
+Net Change: -0.29%
+Market Change: 0.00%
+Boeing Company (The) Common Stock
+
+
+Tesla, Inc.  - Common Stock
+Exchange: Tesla, Inc.  - Common Stock
+Open: 1043.21
+Bid: 1022.0
+Ask: 1022.4
+Net Change: -0.33%
+Market Change: 0.00%
+Tesla, Inc.  - Common Stock
+
+
+description
+Exchange: description
+Open: Open Price
+Bid: Bid Price
+Ask: Ask Price
+description
+
+

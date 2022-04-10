@@ -1,0 +1,341 @@
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 1): 172.5
+Today's high (day 0): 175.18
+
+HOLD
+Breakout 3 Days:
+last high (day 2): 175.18
+Today's high (day 1): 177.18
+SELL: $AAPL
+	<---- Decreasing : 176.62
+SELL: $AAPL
+	<---- Decreasing : 173.78
+SELL: $AAPL
+	<---- Decreasing : 172.54
+SELL: $AAPL
+	<---- Decreasing : 171.08
+SELL: $AAPL
+	<---- Decreasing : 169.68
+SELL: $AAPL
+	<---- Decreasing : 166.33
+SELL: $AAPL
+	<---- Decreasing : 162.3
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 14): 170.35
+Today's high (day 13): 175.0
+SELL: $AAPL
+	<---- Decreasing : 174.84
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 17): 175.88
+Today's high (day 16): 176.2399
+SELL: $AAPL
+	<---- Decreasing : 174.1
+SELL: $AAPL
+	<---- Decreasing : 173.9458
+SELL: $AAPL
+	<---- Decreasing : 173.08
+SELL: $AAPL
+	<---- Decreasing : 169.58
+SELL: $AAPL
+	<---- Decreasing : 166.69
+SELL: $AAPL
+	<---- Decreasing : 166.15
+SELL: $AAPL
+	<---- Decreasing : 162.85
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 34): 165.42
+Today's high (day 33): 166.6
+
+HOLD
+Breakout 3 Days:
+last high (day 35): 166.6
+Today's high (day 34): 167.36
+
+HOLD
+Breakout 4 Days:
+last high (day 36): 167.36
+Today's high (day 35): 168.91
+SELL: $AAPL
+	<---- Decreasing : 165.55
+SELL: $AAPL
+	<---- Decreasing : 165.02
+SELL: $AAPL
+	<---- Decreasing : 162.88
+SELL: $AAPL
+	<---- Decreasing : 160.39
+SELL: $AAPL
+	<---- Decreasing : 159.28
+SELL: $AAPL
+	<---- Decreasing : 154.12
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 46): 160.0
+Today's high (day 45): 161.0
+
+HOLD
+Breakout 3 Days:
+last high (day 47): 161.0
+Today's high (day 46): 164.48
+
+HOLD
+Breakout 4 Days:
+last high (day 48): 164.48
+Today's high (day 47): 166.35
+
+HOLD
+Breakout 5 Days:
+last high (day 49): 166.35
+Today's high (day 48): 169.42
+
+HOLD
+Breakout 6 Days:
+last high (day 50): 169.42
+Today's high (day 49): 172.64
+
+HOLD
+Breakout 7 Days:
+last high (day 51): 172.64
+Today's high (day 50): 174.14
+
+HOLD
+Breakout 8 Days:
+last high (day 52): 174.14
+Today's high (day 51): 175.28
+
+HOLD
+Breakout 9 Days:
+last high (day 53): 175.28
+Today's high (day 52): 175.73
+
+HOLD
+Breakout 10 Days:
+last high (day 54): 175.73
+Today's high (day 53): 179.01
+
+HOLD
+Breakout 11 Days:
+last high (day 55): 179.01
+Today's high (day 54): 179.61
+SELL: $AAPL
+	<---- Decreasing : 178.03
+SELL: $AAPL
+	<---- Decreasing : 174.88
+SELL: $AAPL
+	<---- Decreasing : 173.63
+SELL: $AAPL
+	<---- Decreasing : 173.36
+SELL: $AAPL
+	<---- Decreasing : 171.78
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 64): 1059.1
+Today's high (day 63): 1075.85
+
+HOLD
+Breakout 3 Days:
+last high (day 65): 1075.85
+Today's high (day 64): 1114.84
+
+HOLD
+Breakout 4 Days:
+last high (day 66): 1114.84
+Today's high (day 65): 1115.6
+SELL: $TSLA
+	<---- Decreasing : 1052.0
+SELL: $TSLA
+	<---- Decreasing : 1041.66
+SELL: $TSLA
+	<---- Decreasing : 1004.55
+SELL: $TSLA
+	<---- Decreasing : 933.5131
+SELL: $TSLA
+	<---- Decreasing : 857.5
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 78): 937.99
+Today's high (day 77): 943.7
+SELL: $TSLA
+	<---- Decreasing : 931.5
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 82): 936.5
+Today's high (day 81): 947.77
+SELL: $TSLA
+	<---- Decreasing : 926.2899
+SELL: $TSLA
+	<---- Decreasing : 915.96
+SELL: $TSLA
+	<---- Decreasing : 898.8799
+SELL: $TSLA
+	<---- Decreasing : 886.87
+SELL: $TSLA
+	<---- Decreasing : 856.7338
+SELL: $TSLA
+	<---- Decreasing : 835.2997
+SELL: $TSLA
+	<---- Decreasing : 802.48
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 97): 876.86
+Today's high (day 96): 889.88
+SELL: $TSLA
+	<---- Decreasing : 886.48
+SELL: $TSLA
+	<---- Decreasing : 886.439
+SELL: $TSLA
+	<---- Decreasing : 855.65
+SELL: $TSLA
+	<---- Decreasing : 849.99
+SELL: $TSLA
+	<---- Decreasing : 843.802
+SELL: $TSLA
+	<---- Decreasing : 800.7
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 109): 842.0
+Today's high (day 108): 875.0
+
+HOLD
+Breakout 3 Days:
+last high (day 110): 875.0
+Today's high (day 109): 907.85
+
+HOLD
+Breakout 4 Days:
+last high (day 111): 907.85
+Today's high (day 110): 942.85
+
+HOLD
+Breakout 5 Days:
+last high (day 112): 942.85
+Today's high (day 111): 997.86
+
+HOLD
+Breakout 6 Days:
+last high (day 113): 997.86
+Today's high (day 112): 1040.7
+SELL: $TSLA
+	<---- Decreasing : 1024.49
+SELL: $TSLA
+	<---- Decreasing : 1021.7999
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 117): 1097.8799
+Today's high (day 116): 1114.77
+SELL: $TSLA
+	<---- Decreasing : 1113.95
+SELL: $TSLA
+	<---- Decreasing : 1103.1399
+SELL: $TSLA
+	<---- Decreasing : 1094.75
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 122): 1149.91
+Today's high (day 121): 1152.87
+SELL: $TSLA
+	<---- Decreasing : 1079.0
+SELL: $TSLA
+	<---- Decreasing : 1076.59
+SELL: $TSLA
+	<---- Decreasing : 1048.44
+SELL: $BA
+	<---- Decreasing : 215.28
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 129): 221.24
+Today's high (day 128): 226.89
+SELL: $BA
+	<---- Decreasing : 226.2
+SELL: $BA
+	<---- Decreasing : 225.42
+SELL: $BA
+	<---- Decreasing : 221.95
+SELL: $BA
+	<---- Decreasing : 213.79
+SELL: $BA
+	<---- Decreasing : 204.8
+SELL: $BA
+	<---- Decreasing : 199.7073
+SELL: $BA
+	<---- Decreasing : 190.72
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 148): 217.04
+Today's high (day 147): 223.23
+SELL: $BA
+	<---- Decreasing : 221.42
+SELL: $BA
+	<---- Decreasing : 215.63
+SELL: $BA
+	<---- Decreasing : 214.7288
+SELL: $BA
+	<---- Decreasing : 206.9
+SELL: $BA
+	<---- Decreasing : 203.2499
+SELL: $BA
+	<---- Decreasing : 198.855
+SELL: $BA
+	<---- Decreasing : 198.5
+SELL: $BA
+	<---- Decreasing : 188.3203
+SELL: $BA
+	<---- Decreasing : 182.72
+SELL: $BA
+	<---- Decreasing : 180.82
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 168): 182.02
+Today's high (day 167): 184.86
+SELL: $BA
+	<---- Decreasing : 178.2289
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 172): 189.6
+Today's high (day 171): 190.24
+
+HOLD
+Breakout 3 Days:
+last high (day 173): 190.24
+Today's high (day 172): 193.38
+SELL: $BA
+	<---- Decreasing : 187.265
+
+BUY {value[3}
+Breakout 2 Days:
+last high (day 181): 196.36
+Today's high (day 180): 197.45
+
+HOLD
+Breakout 3 Days:
+last high (day 182): 197.45
+Today's high (day 181): 197.5799
+SELL: $BA
+	<---- Decreasing : 192.616
+SELL: $BA
+	<---- Decreasing : 191.8448
+SELL: $BA
+	<---- Decreasing : 180.57
+SELL: $BA
+	<---- Decreasing : 178.66
+SELL: $BA
+	<---- Decreasing : 178.13

@@ -45,10 +45,12 @@ def get_biggest_daily_movers():
   for i in indexes:
   # Fetch data
     endpoint = movers_url.format(index = i)
-    data = requests.get(url=endpoint, 
+    data = requests.get(url= endpoint, 
                 params={'apikey' : td_consumer_key})
+    print(data.json())
     # Jsonify()
     data = data.json()
+    
     # Parse JSON -> Dictionary 
     for x in data:
       change = x['change'] * 100
@@ -146,7 +148,7 @@ def get_fundamentals(ticker):
     except KeyError:
       print("KEY ERROR:")
       continue
-  print(fundamentals)
+ 
  # Dictionary -> CSV
   with open(f'./{today}/{today[5:]}\'s fundamentals.csv', 'w') as f: 
     writer = csv.writer(f)
@@ -161,23 +163,25 @@ def get_history(ticker):
   endpoint = 'https://api.tdameritrade.com/v1/marketdata/{stock_ticker}/pricehistory?periodType={periodType}&period={period}&frequencyType={frequencyType}&frequency={frequency}'
  
   candleStick_dict = {}
-  fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume']
+  fields = ['Day','Open', 'Close', 'High', 'Low', 'Volume','SYM']
   num = 0
   for i in ticker:
+    
     full_url = endpoint.format(stock_ticker=i,periodType='month',period=3,frequencyType='daily',frequency=1)
     page = requests.get(url=full_url,
                         params={'apikey' : td_consumer_key})
     #content = json.loads(page.content)
     data = page.json()
     temp = data['candles']
-
+    sym = f"${data['symbol']}"
     for x in temp:
       z = (  num,
            x['open'],
-           x['close']
-           ,x['high']
-           ,x['low'],
-           x['volume'] )
+           x['close'],
+           x['high'],
+           x['low'],
+           x['volume'],
+           sym,)
       candleStick_dict.update({num : z})
       num += 1
     
@@ -187,6 +191,7 @@ def get_history(ticker):
     writer.writerow(fields)
     for x in candleStick_dict:
       writer.writerow(candleStick_dict[x])
+    writer.writerow(("---",'---','---','---','---','--','---','---'))
   return 0  
 
 
@@ -215,17 +220,19 @@ def options():
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   #arr = get_biggest_daily_movers()
-  #time.sleep(5)
-  #print("40 Seconds.")
+  arr = ['AAPL', 'TSLA', 'BA']
+  time.sleep(5)
+  print("40 Seconds.")
   # Get Quotes for all of those big movers:
-  #get_quotes(arr)
-  #time.sleep(20)
+  get_quotes(arr)
+  time.sleep(5)
   print("30 Seconds..")
   # Get fundamentals on the biggest movers:
-  #get_fundamentals(arr)
-  #time.sleep(20)
+  get_fundamentals(arr)
+  time.sleep(5)
   print("20 Seconds...")
-  get_history(['$DJI'])
+  # Get 3 month breakout on those movers (trend finding / hopping)
+  get_history(arr)
   print(f'Done! check {today}\'s folder!')
   #options()
 

@@ -1,0 +1,52 @@
+Apple Inc. - Common Stock
+PE_Ratio: 28.23891
+Beta: 1.19108
+High52: 182.94
+Low52: 122.25
+MarketCap: 2809229.0
+MarketCap Float: 16308.0
+Dividend Pay Ammount: 0.22
+Dividend Pay Date: 2022-02-10 
+Net Profit Margin TTM: 26.57914
+Apple Inc. - Common Stock
+
+
+Boeing Company (The) Common Stock
+PE_Ratio: 0.0
+Beta: 1.41718
+High52: 258.3957
+Low52: 167.58
+MarketCap: 103435.4
+MarketCap Float: 589.8143
+Dividend Pay Ammount: 2.055
+Dividend Pay Date: 2020-03-06 
+Net Profit Margin TTM: 0.0
+Boeing Company (The) Common Stock
+
+
+Tesla, Inc.  - Common Stock
+PE_Ratio: 208.3643
+Beta: 2.08839
+High52: 1243.49
+Low52: 546.98
+MarketCap: 1092686.0
+MarketCap Float: 843.5903
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 10.48622
+Tesla, Inc.  - Common Stock
+
+
+description
+PE_Ratio: P/E Ratio
+Beta: Beta
+High52: High-52
+Low52: Low-52
+MarketCap: Market Cap
+MarketCap Float: Market Cap Float
+Dividend Pay Ammount: Dividend Pay: 
+Dividend Pay Date: Dividend Pa
+Net Profit Margin TTM: Net Profit Margin (TTM)
+description
+
+

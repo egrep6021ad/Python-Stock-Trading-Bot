@@ -224,16 +224,16 @@ if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
   #arr = get_biggest_daily_movers()
   #arr = ['AAPL', 'TSLA', 'BA','TWTR', 'FB', 'NFLX']
-  #arr= ['AAPL','RODM','NYMT','MLPA']
-  arr = ['VLATU','IRM','KJUL','FLRG','GTX','AEHAW']
+  arr= ['AAPL','RODM','NYMT','MLPA']
+  #arr = ['VLATU','IRM','KJUL','FLRG','GTX','AEHAW']
   time.sleep(0.5)
   print("40 Seconds.")
   # Get Quotes for all of those big movers:
-  #get_quotes(arr)
+  get_quotes(arr)
   time.sleep(0.5)
   print("30 Seconds..")
   # Get fundamentals on the biggest movers:
-  #get_fundamentals(arr)
+  get_fundamentals(arr)
   time.sleep(0.5)
   print("20 Seconds...")
   # Get 3 month breakout on those movers (trend finding / hopping)

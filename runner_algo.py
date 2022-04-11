@@ -17,6 +17,7 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
     # Starting funds:
     funds_remain = input_dollars
     end = list(candle_stick.items())[-2][1][0]
+  
    
     # Iterate though every entry ("Candle Stick")
     for (key,value) in list(candle_stick.items())[1:-1]:
@@ -46,7 +47,7 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
      
         
       # START:
-      if curr_high >= support:     
+      if curr_high >= support and value[0] != end:     
         if curr_high > prev_day_high:   
           days_trending += 1         
           if days_trending >= min_momentum:  
@@ -59,9 +60,10 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
                   invested = True
                   funds_remain = asset[0]
                   shares = asset[1]
-                fst2.write(f"{value[4]}\n")
-                change_perc = get_inc_percentage(curr_high,prev_day_high)
-                fst2.write(f'Percentage Change +{change_perc:0.2f}%\n')
+                  fst2.write(f"BUY {value[3]}")
+                  fst2.write(f"{value[4]}\n")
+                  change_perc = get_inc_percentage(curr_high,prev_day_high)
+                  fst2.write(f'Percentage Change +{change_perc:0.2f}%\n')
             # HOLD
             else:
               fst2.write(f"\nHOLD Day: {str(days_trending-min_momentum)}({str(days_trending)}Since Buy Indicator)\n")
@@ -78,6 +80,11 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
           
       # Fell throuh support
       elif curr_high < support:
+          
+          print(value[0])
+          if value[0] == end:
+            print(value[0])
+
           change_perc =  get_dec_percentage(curr_high,prev_day_high)
           support = curr_high
           days_trending = 0

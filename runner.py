@@ -125,5 +125,5 @@ if __name__ == "__main__":
   import_from_csv()
   time.sleep(0.5)
   #quantative_value()
-  trend_checker(2,10000) # Min number or trending days & money in dollars
+  trend_checker(1,10000) # Min number or trending days & money in dollars
   print("Check!\n")

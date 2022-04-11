@@ -11,7 +11,7 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
     invested = False                      # Determines which direction data is trending
     prev_symbol = ""                        # Track when SYMBOL changes
     portfolio = {}                     # Track returns per asset
-    daily_high_arr = []
+    daily_high_arr = [0]
     shares = 1
    
     # Starting funds:
@@ -27,31 +27,20 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
       daily_high_arr.append(float(value[1]))
       curr_high = daily_high_arr[-1]
       
-      # If holding on the most recent day, SELL
-      if invested == True and (symbol != prev_symbol or value[0] == end ):
-        with open(f'./Quick/{today[5:]} candle_read.txt', 'a+') as f:
-            f.write("append")
-            f.write(f"\tSELL: {value[3]} @ ${curr_high}\n")
-            funds_remain = funds_remain + curr_high * shares
-            f.write(f"\t\t{value[4]}\n")
-            change_perc =  get_dec_percentage(curr_high,prev_day_high)
-            f.write(f'\t\t<----- Decreasing\n')
-            f.write(f'\t\tChange from support line (swing low): -{change_perc:0.2f}%\n\n')
-            portfolio.update({value[3]:funds_remain}) 
-          
       # SYMBOL (asset) CHANGE:
       if symbol != prev_symbol:
         prev_symbol = value[3]
         funds_remain = input_dollars
+        invested = False
         support = 0
-     
-        
+        prev_day_high = curr_high
+    
       # START:
       if curr_high >= support and value[0] != end:     
-        if curr_high > prev_day_high:   
+        if curr_high >= prev_day_high:   
           days_trending += 1         
           if days_trending >= min_momentum:  
-            support = curr_high 
+            support =  daily_high_arr[-2] # Support becomes the High 2 days prior to current
             
             # BUY soon as min. momentum is met & there is enough money
             if days_trending == min_momentum:  
@@ -60,48 +49,44 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
                   invested = True
                   funds_remain = asset[0]
                   shares = asset[1]
-                  fst2.write(f"BUY {value[3]}")
+                  fst2.write(f"\nBUY {value[3]}\n")
                   fst2.write(f"{value[4]}\n")
-                  change_perc = get_inc_percentage(curr_high,prev_day_high)
-                  fst2.write(f'Percentage Change +{change_perc:0.2f}%\n')
+                  fst2.write(f"{curr_high}\n\n")
             # HOLD
             else:
-              fst2.write(f"\nHOLD Day: {str(days_trending-min_momentum)}({str(days_trending)}Since Buy Indicator)\n")
-              change_perc = get_dec_percentage(curr_high,prev_day_high)
-              change_perc = change_perc * -1
-              fst2.write(f"Percent Change: {change_perc :0.2f}%\n")
-            fst2.write(f'Previous Days High: {prev_day_high}\n\n')
+              fst2.write(f"\nHOLD {value[4]}\n")
+              fst2.write(f'Previous Days High: {prev_day_high}\n\n')
                       
           prev_day_high = curr_high
         # Otherwise, were not trending up, but above resistance  
         else:
           days_trending = 0
           prev_day_high = support
-          
-      # Fell throuh support
-      elif curr_high < support:
-          
-          print(value[0])
-          if value[0] == end:
-            print(value[0])
-
-          change_perc =  get_dec_percentage(curr_high,prev_day_high)
           support = curr_high
+          # SELL! assets have fallen ___% far...
+          if invested == True: # This stops from small changes
+            invested = False
+            fst2.write(f"\t*** SELL: {value[3]} @ ${curr_high}\n")
+            funds_remain = funds_remain + curr_high * shares
+            fst2.write(f"\t\t{value[4]}\n")
+
+           
+      # Fell throuh support
+      else:
+          support = 0
           days_trending = 0
           # SELL! assets have fallen ___% far...
-          if invested == True and change_perc>0: # This stops from small changes
+          if invested == True: # This stops from small changes
             invested = False
             fst2.write(f"\tSELL: {value[3]} @ ${curr_high}\n")
             funds_remain = funds_remain + curr_high * shares
-          fst2.write(f"\t\t{value[4]}\n")
-          change_perc =  get_dec_percentage(curr_high,prev_day_high)
-          fst2.write(f'\t\t<----- Decreasing\n')
-          fst2.write(f'\t\tChange from support line (swing low): -{change_perc:0.2f}%\n\n')
+            fst2.write(f"\t\t{value[4]}\n")
+      
+            
       # update { $SYM : New Balance afer transaction}
       portfolio.update({value[3]:funds_remain})
 
   # END: Cumulative data ->  txt file
-      
   with open(f'./Quick/{today[5:]} candle_read.txt', 'a') as fst2:     
   # Print The statistics
     cash_out=0
@@ -115,10 +100,7 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
     fst2.write(f"\nInvested: {str(input_dollars*cash_in)}\n")  
     fst2.write(f"Returned: {cash_out:0.2f}\n")
     fst2.write(f"Profit: $ {cash_out-input_dollars*cash_in:0.2f}\n")
-    change_perc = get_dec_percentage(cash_out,(input_dollars * cash_in))
-    change_perc = change_perc * -1
-    print(f"Change: {change_perc:0.2f} %\n")
-    fst2.write(f"Change: {change_perc:0.2f} %\n")
+   
     print(portfolio)
   return
 

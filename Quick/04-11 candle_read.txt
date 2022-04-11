@@ -1,620 +1,182 @@
-BUY $AAPL01/11/22-2022
-Percentage Change +1.55%
-Previous Days High: 172.5
+
+BUY $GBTC
+01/10/22-2022
+30.65
 
 
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.14%
-Previous Days High: 175.18
+HOLD 01/11/22-2022
+Previous Days High: 30.65
 
-	SELL: $AAPL @ $176.62
-		01/13/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.32%
 
+HOLD 01/12/22-2022
+Previous Days High: 31.49
+
+
+HOLD 01/13/22-2022
+Previous Days High: 32.5
+
+	SELL: $GBTC @ $31.2
 		01/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.92%
 
-		01/18/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.62%
+BUY $GBTC
+01/19/22-2022
+29.55
 
-		01/19/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.44%
 
-		01/20/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.23%
+HOLD 01/20/22-2022
+Previous Days High: 29.55
 
+	SELL: $GBTC @ $26.73
 		01/21/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -6.12%
 
-		01/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -8.40%
+BUY $GBTC
+01/26/22-2022
+27.4
 
-BUY $AAPL01/31/22-2022
-Percentage Change +2.73%
-Previous Days High: 170.35
-
-	SELL: $AAPL @ $174.84
-		02/01/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.09%
-
-BUY $AAPL02/03/22-2022
-Percentage Change +0.20%
-Previous Days High: 175.88
-
-	SELL: $AAPL @ $174.1
-		02/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.21%
-
-		02/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.30%
-
-		02/11/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.50%
-
-		02/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.51%
-
-		02/22/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.26%
-
-		02/23/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.57%
-
-		02/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.51%
-
-BUY $AAPL03/01/22-2022
-Percentage Change +0.71%
-Previous Days High: 165.42
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.46%
-Previous Days High: 166.6
-
-
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 0.93%
-Previous Days High: 167.36
-
-	SELL: $AAPL @ $165.55
-		03/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.99%
-
-		03/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.30%
-
-		03/08/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.57%
-
-		03/10/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.53%
-
-		03/11/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.21%
-
-		03/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -5.38%
-
-BUY $AAPL03/17/22-2022
-Percentage Change +0.62%
-Previous Days High: 160.0
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 2.16%
-Previous Days High: 161.0
-
-
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 1.14%
-Previous Days High: 164.48
-
-
-HOLD Day: 3(5Since Buy Indicator)
-Percent Change: 1.85%
-Previous Days High: 166.35
-
-
-HOLD Day: 4(6Since Buy Indicator)
-Percent Change: 1.90%
-Previous Days High: 169.42
-
-
-HOLD Day: 5(7Since Buy Indicator)
-Percent Change: 0.87%
-Previous Days High: 172.64
-
-
-HOLD Day: 6(8Since Buy Indicator)
-Percent Change: 0.65%
-Previous Days High: 174.14
-
-
-HOLD Day: 7(9Since Buy Indicator)
-Percent Change: 0.26%
-Previous Days High: 175.28
-
-
-HOLD Day: 8(10Since Buy Indicator)
-Percent Change: 1.87%
-Previous Days High: 175.73
-
-
-HOLD Day: 9(11Since Buy Indicator)
-Percent Change: 0.34%
-Previous Days High: 179.01
-
-	SELL: $AAPL @ $178.03
-		03/31/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.88%
-
-		04/01/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.63%
-
-		04/06/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.62%
-
-		04/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.77%
-
-		04/08/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.66%
-
-BUY $RODM01/12/22-2022
-Percentage Change +0.86%
-Previous Days High: 30.27
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.56%
-Previous Days High: 30.53
-
-	SELL: $RODM @ $30.4
-		01/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.98%
-
-		01/18/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.99%
-
-		01/21/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.41%
-
-		01/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.09%
-
+	SELL: $GBTC @ $25.81
 		01/27/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.74%
 
-		01/28/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.40%
-
-BUY $RODM02/02/22-2022
-Percentage Change +1.02%
-Previous Days High: 29.535
-
-	SELL: $RODM @ $29.79
-		02/03/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.15%
-
-		02/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.65%
-
-BUY $RODM02/09/22-2022
-Percentage Change +1.07%
-Previous Days High: 29.79
+BUY $GBTC
+01/31/22-2022
+26.49
 
 
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.13%
-Previous Days High: 30.11
+HOLD 02/01/22-2022
+Previous Days High: 26.49
 
-	SELL: $RODM @ $29.92
-		02/11/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.76%
-
-		02/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.16%
-
-		02/22/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.95%
-
-		02/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.59%
-
-		03/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.49%
-
-		03/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.11%
-
-		03/08/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.40%
-
-BUY $RODM03/11/22-2022
-Percentage Change +0.61%
-Previous Days High: 27.91
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.41%
-Previous Days High: 28.08
-
-	SELL: $RODM @ $28.1
-		03/15/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.33%
-
-BUY $RODM03/17/22-2022
-Percentage Change +0.87%
-Previous Days High: 28.81
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.52%
-Previous Days High: 29.0593
-
-	SELL: $RODM @ $29.08
-		03/23/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.82%
-
-BUY $RODM03/30/22-2022
-Percentage Change +0.14%
-Previous Days High: 29.59
-
-	SELL: $RODM @ $29.45
-		03/31/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.61%
-
-		04/01/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.91%
-
-		04/06/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.29%
-
-BUY $NYMT01/12/22-2022
-Percentage Change +0.13%
-Previous Days High: 3.855
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.26%
-Previous Days High: 3.86
-
-	SELL: $NYMT @ $3.8
-		01/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.81%
-
-		01/19/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.32%
-
-		01/21/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.60%
-
-		01/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.00%
-
-BUY $NYMT01/31/22-2022
-Percentage Change +2.74%
-Previous Days High: 3.65
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 0.93%
-Previous Days High: 3.75
-
-	SELL: $NYMT @ $3.73
+	SELL: $GBTC @ $26.14
 		02/02/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.45%
 
-		02/03/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.11%
+BUY $GBTC
+02/04/22-2022
+28.24
 
-		02/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.17%
 
-BUY $NYMT02/09/22-2022
-Percentage Change +0.45%
-Previous Days High: 3.7
+HOLD 02/07/22-2022
+Previous Days High: 28.24
 
-	SELL: $NYMT @ $3.7
-		02/10/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.45%
 
+HOLD 02/08/22-2022
+Previous Days High: 31.17
+
+
+HOLD 02/09/22-2022
+Previous Days High: 31.36
+
+
+HOLD 02/10/22-2022
+Previous Days High: 32.08
+
+	SELL: $GBTC @ $31.1
 		02/11/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.65%
 
-		02/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.46%
-
-		02/22/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.17%
-
-		02/23/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.01%
-
-		02/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.37%
-
-BUY $NYMT03/01/22-2022
-Percentage Change +0.85%
-Previous Days High: 3.52
+BUY $GBTC
+02/15/22-2022
+31.4
 
 
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.13%
-Previous Days High: 3.55
+HOLD 02/16/22-2022
+Previous Days High: 31.4
+
+	SELL: $GBTC @ $29.9865
+		02/17/22-2022
+
+BUY $GBTC
+02/23/22-2022
+26.87
 
 
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 0.56%
-Previous Days High: 3.59
+HOLD 02/24/22-2022
+Previous Days High: 26.87
 
-	SELL: $NYMT @ $3.59
-		03/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.55%
+	*** SELL: $GBTC @ $27.34
+		02/25/22-2022
 
-BUY $NYMT03/09/22-2022
-Percentage Change +1.23%
-Previous Days High: 3.655
-
-	SELL: $NYMT @ $3.69
-		03/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.07%
-
-		03/23/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.67%
-
-		03/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.55%
-
-BUY $NYMT03/29/22-2022
-Percentage Change +1.64%
-Previous Days High: 3.66
-
-	SELL: $NYMT @ $3.71
-		03/30/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.27%
-
-		03/31/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.08%
-
-		04/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.27%
-
-		04/06/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.66%
-
-		04/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.61%
-
-		04/08/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -5.83%
-
-BUY $MLPA01/11/22-2022
-Percentage Change +1.88%
-Previous Days High: 37.75
+BUY $GBTC
+02/28/22-2022
+29.5
 
 
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.33%
-Previous Days High: 38.46
+HOLD 03/01/22-2022
+Previous Days High: 29.5
 
 
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 0.15%
-Previous Days High: 38.97
+HOLD 03/02/22-2022
+Previous Days High: 31.29
 
-	SELL: $MLPA @ $38.8
-		01/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.59%
-
-		01/21/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.77%
-
-		01/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -4.31%
-
-BUY $MLPA01/31/22-2022
-Percentage Change +1.40%
-Previous Days High: 38.47
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.97%
-Previous Days High: 39.01
-
-
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 0.93%
-Previous Days High: 39.78
-
-
-HOLD Day: 3(5Since Buy Indicator)
-Percent Change: 0.05%
-Previous Days High: 40.15
-
-
-HOLD Day: 4(6Since Buy Indicator)
-Percent Change: 1.24%
-Previous Days High: 40.17
-
-	SELL: $MLPA @ $39.98
-		02/07/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.70%
-
-		02/08/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.09%
-
-BUY $MLPA02/11/22-2022
-Percentage Change +1.08%
-Previous Days High: 39.98
-
-	SELL: $MLPA @ $40.32
-		02/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.22%
-
-		02/15/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -2.30%
-
-		02/18/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.71%
-
-		02/22/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -1.84%
-
-		02/23/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.06%
-
-		02/24/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.80%
-
-BUY $MLPA03/01/22-2022
-Percentage Change +0.85%
-Previous Days High: 39.61
-
-
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.16%
-Previous Days High: 39.948
-
-	SELL: $MLPA @ $40.4079
+	SELL: $GBTC @ $30.25
 		03/03/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.01%
 
-		03/04/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.10%
-
-BUY $MLPA03/08/22-2022
-Percentage Change +1.64%
-Previous Days High: 41.0656
-
-	SELL: $MLPA @ $40.24
-		03/09/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.59%
-
-		03/14/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -3.57%
-
-		03/15/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -6.48%
-
-BUY $MLPA03/22/22-2022
-Percentage Change +0.20%
-Previous Days High: 39.16
+BUY $GBTC
+03/08/22-2022
+26.36
 
 
-HOLD Day: 1(3Since Buy Indicator)
-Percent Change: 1.17%
-Previous Days High: 39.24
+HOLD 03/09/22-2022
+Previous Days High: 26.36
+
+	*** SELL: $GBTC @ $26.95
+		03/10/22-2022
+
+BUY $GBTC
+03/15/22-2022
+26.5
 
 
-HOLD Day: 2(4Since Buy Indicator)
-Percent Change: 1.06%
-Previous Days High: 39.7
+HOLD 03/16/22-2022
+Previous Days High: 26.5
 
 
-HOLD Day: 3(5Since Buy Indicator)
-Percent Change: 1.62%
-Previous Days High: 40.12
+HOLD 03/17/22-2022
+Previous Days High: 27.5
 
-	SELL: $MLPA @ $40.47
-		03/28/22-2022
-		<----- Decreasing
-		Change from support line (swing low): -0.74%
 
+HOLD 03/18/22-2022
+Previous Days High: 27.7
+
+	*** SELL: $GBTC @ $28.46
+		03/21/22-2022
+
+BUY $GBTC
+03/22/22-2022
+29.49
+
+	*** SELL: $GBTC @ $29.2
+		03/23/22-2022
+
+BUY $GBTC
+03/24/22-2022
+30.68
+
+
+HOLD 03/25/22-2022
+Previous Days High: 30.68
+
+
+HOLD 03/28/22-2022
+Previous Days High: 31.53
+
+
+HOLD 03/29/22-2022
+Previous Days High: 33.16
+
+	SELL: $GBTC @ $32.96
+		03/30/22-2022
+
+BUY $GBTC
+04/04/22-2022
+32.15
+
+
+HOLD 04/05/22-2022
+Previous Days High: 32.15
+
+	SELL: $GBTC @ $31.22
+		04/06/22-2022
 
 Start: $ 10000 Each symbol
-	$AAPL: $ 10927.87
-	$RODM: $ 9833.92
-	$NYMT: $ 9805.16
-	$MLPA: $ 10375.74
+	$GBTC: $ 10651.19
 
-Invested: 40000
-Returned: 40942.69
-Profit: $ 942.69
-Change: 2.36 %
+Invested: 10000
+Returned: 10651.19
+Profit: $ 651.19

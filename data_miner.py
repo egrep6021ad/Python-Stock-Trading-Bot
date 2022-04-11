@@ -222,11 +222,12 @@ def options():
 
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
-  #arr = get_biggest_daily_movers()
-  #arr = ['AAPL', 'TSLA', 'BA','TWTR', 'FB', 'NFLX']
-  #arr= arr + ['AAPL','RODM','NYMT','MLPA']
-  #arr = arr + ['VLATU','IRM','KJUL','FLRG','GTX','AEHAW']
-  arr = ['GBTC']
+
+  
+  #good arr = ['IRM','TSLA','MULN','GBTC','AAPL','TWTR',MLPA ,RODM,MDVL,'TSRI','SGLY']
+  #bad arr = ['BA','NFLX','FB','AEHAW',KJUL,NYMT,'FLRG','$ATER','KLDO']
+  arr = ['IRM']
+  
   print(arr)
   time.sleep(0.5)
   print("40 Seconds.")

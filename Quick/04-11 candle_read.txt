@@ -1,182 +1,242 @@
 
-BUY $GBTC
+BUY $IRM
 01/10/22-2022
-30.65
+46.925
 
 
 HOLD 01/11/22-2022
-Previous Days High: 30.65
+Previous Days High: 46.925
 
 
 HOLD 01/12/22-2022
-Previous Days High: 31.49
+Previous Days High: 46.86
 
 
 HOLD 01/13/22-2022
-Previous Days High: 32.5
+Previous Days High: 47.17
 
-	SELL: $GBTC @ $31.2
-		01/14/22-2022
+	SELL: $IRM @ $45.41
+\day_day_perc_change\day_day_perc_change01/14/22-2022
 
-BUY $GBTC
-01/19/22-2022
-29.55
+BUY $IRM
+01/18/22-2022
+44.52
+
+	SELL: $IRM @ $44.69
+\day_day_perc_change\day_day_perc_change01/19/22-2022
+
+BUY $IRM
+01/20/22-2022
+43.67
+
+	SELL: $IRM @ $43.99
+\day_day_perc_change\day_day_perc_change01/21/22-2022
+
+BUY $IRM
+01/24/22-2022
+44.57
 
 
-HOLD 01/20/22-2022
-Previous Days High: 29.55
+HOLD 01/25/22-2022
+Previous Days High: 44.57
 
-	SELL: $GBTC @ $26.73
-		01/21/22-2022
 
-BUY $GBTC
-01/26/22-2022
-27.4
+HOLD 01/26/22-2022
+Previous Days High: 44.368
 
-	SELL: $GBTC @ $25.81
-		01/27/22-2022
 
-BUY $GBTC
+HOLD 01/27/22-2022
+Previous Days High: 45.32
+
+	SELL: $IRM @ $45.03
+\day_day_perc_change\day_day_perc_change01/28/22-2022
+
+BUY $IRM
 01/31/22-2022
-26.49
+46.29
 
 
 HOLD 02/01/22-2022
-Previous Days High: 26.49
-
-	SELL: $GBTC @ $26.14
-		02/02/22-2022
-
-BUY $GBTC
-02/04/22-2022
-28.24
+Previous Days High: 46.29
 
 
-HOLD 02/07/22-2022
-Previous Days High: 28.24
+HOLD 02/02/22-2022
+Previous Days High: 46.34
 
 
-HOLD 02/08/22-2022
-Previous Days High: 31.17
+HOLD 02/03/22-2022
+Previous Days High: 46.91
 
+	SELL: $IRM @ $46.25
+\day_day_perc_change\day_day_perc_change02/04/22-2022
 
-HOLD 02/09/22-2022
-Previous Days High: 31.36
+BUY $IRM
+02/07/22-2022
+45.8539
+
+	SELL: $IRM @ $45.23
+\day_day_perc_change\day_day_perc_change02/08/22-2022
+
+BUY $IRM
+02/09/22-2022
+46.09
 
 
 HOLD 02/10/22-2022
-Previous Days High: 32.08
+Previous Days High: 46.09
 
-	SELL: $GBTC @ $31.1
-		02/11/22-2022
+	SELL: $IRM @ $45.18
+\day_day_perc_change\day_day_perc_change02/11/22-2022
 
-BUY $GBTC
-02/15/22-2022
-31.4
+BUY $IRM
+02/14/22-2022
+44.54
 
+	SELL: $IRM @ $44.52
+\day_day_perc_change\day_day_perc_change02/15/22-2022
 
-HOLD 02/16/22-2022
-Previous Days High: 31.4
+BUY $IRM
+02/16/22-2022
+44.29
 
-	SELL: $GBTC @ $29.9865
-		02/17/22-2022
+	SELL: $IRM @ $44.07
+\day_day_perc_change\day_day_perc_change02/17/22-2022
 
-BUY $GBTC
+BUY $IRM
+02/18/22-2022
+43.84
+
+	SELL: $IRM @ $43.29
+\day_day_perc_change\day_day_perc_change02/22/22-2022
+
+BUY $IRM
 02/23/22-2022
-26.87
+43.29
 
 
 HOLD 02/24/22-2022
-Previous Days High: 26.87
+Previous Days High: 43.29
 
-	*** SELL: $GBTC @ $27.34
-		02/25/22-2022
 
-BUY $GBTC
-02/28/22-2022
-29.5
+HOLD 02/25/22-2022
+Previous Days High: 45.55
+
+
+HOLD 02/28/22-2022
+Previous Days High: 48.91
 
 
 HOLD 03/01/22-2022
-Previous Days High: 29.5
+Previous Days High: 49.78
 
 
 HOLD 03/02/22-2022
-Previous Days High: 31.29
-
-	SELL: $GBTC @ $30.25
-		03/03/22-2022
-
-BUY $GBTC
-03/08/22-2022
-26.36
+Previous Days High: 50.15
 
 
-HOLD 03/09/22-2022
-Previous Days High: 26.36
+HOLD 03/03/22-2022
+Previous Days High: 50.805
 
-	*** SELL: $GBTC @ $26.95
-		03/10/22-2022
 
-BUY $GBTC
+HOLD 03/04/22-2022
+Previous Days High: 51.94
+
+
+HOLD 03/07/22-2022
+Previous Days High: 52.22
+
+	SELL: $IRM @ $51.91
+\day_day_perc_change\day_day_perc_change03/08/22-2022
+
+BUY $IRM
+03/09/22-2022
+51.97
+
+	SELL: $IRM @ $51.48
+\day_day_perc_change\day_day_perc_change03/10/22-2022
+
+BUY $IRM
+03/11/22-2022
+51.97
+
+	SELL: $IRM @ $49.52
+\day_day_perc_change\day_day_perc_change03/14/22-2022
+
+BUY $IRM
 03/15/22-2022
-26.5
+48.91
 
+	SELL: $IRM @ $49.43
+\day_day_perc_change\day_day_perc_change03/16/22-2022
 
-HOLD 03/16/22-2022
-Previous Days High: 26.5
-
-
-HOLD 03/17/22-2022
-Previous Days High: 27.5
+BUY $IRM
+03/17/22-2022
+49.82
 
 
 HOLD 03/18/22-2022
-Previous Days High: 27.7
+Previous Days High: 49.82
 
-	*** SELL: $GBTC @ $28.46
-		03/21/22-2022
 
-BUY $GBTC
-03/22/22-2022
-29.49
+HOLD 03/21/22-2022
+Previous Days High: 49.61
 
-	*** SELL: $GBTC @ $29.2
-		03/23/22-2022
 
-BUY $GBTC
-03/24/22-2022
-30.68
+HOLD 03/22/22-2022
+Previous Days High: 50.6
+
+
+HOLD 03/23/22-2022
+Previous Days High: 51.25
+
+
+HOLD 03/24/22-2022
+Previous Days High: 52.39
 
 
 HOLD 03/25/22-2022
-Previous Days High: 30.68
+Previous Days High: 52.89
 
 
 HOLD 03/28/22-2022
-Previous Days High: 31.53
+Previous Days High: 53.39
 
 
 HOLD 03/29/22-2022
-Previous Days High: 33.16
-
-	SELL: $GBTC @ $32.96
-		03/30/22-2022
-
-BUY $GBTC
-04/04/22-2022
-32.15
+Previous Days High: 53.8225
 
 
-HOLD 04/05/22-2022
-Previous Days High: 32.15
+HOLD 03/30/22-2022
+Previous Days High: 55.18
 
-	SELL: $GBTC @ $31.22
-		04/06/22-2022
+
+HOLD 03/31/22-2022
+Previous Days High: 55.49
+
+
+HOLD 04/01/22-2022
+Previous Days High: 56.51
+
+	SELL: $IRM @ $56.25
+\day_day_perc_change\day_day_perc_change04/04/22-2022
+
+BUY $IRM
+04/05/22-2022
+56.37
+
+	SELL: $IRM @ $56.2
+\day_day_perc_change\day_day_perc_change04/06/22-2022
+
+BUY $IRM
+04/07/22-2022
+56.43
+
+	SELL: $IRM @ $56.28
+\day_day_perc_change\day_day_perc_change04/08/22-2022
 
 Start: $ 10000 Each symbol
-	$GBTC: $ 10651.19
+\day_day_perc_change$IRM: $ 12039.15
 
 Invested: 10000
-Returned: 10651.19
-Profit: $ 651.19
+Returned: 12039.15
+Profit: $ 2039.15

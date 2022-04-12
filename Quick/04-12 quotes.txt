@@ -1,0 +1,578 @@
+3M Company Common Stock
+Exchange: 3M Company Common Stock
+Open: 151.34
+Bid: 148.84
+Ask: 148.88
+Net Change: -0.82%
+Market Change: -0.83%
+3M Company Common Stock
+
+
+APA Corporation - Common Stock
+Exchange: APA Corporation - Common Stock
+Open: 41.98
+Bid: 42.39
+Ask: 42.4
+Net Change: 3.23%
+Market Change: 3.23%
+APA Corporation - Common Stock
+
+
+AdaptHealth Corp.  - Common Stock
+Exchange: AdaptHealth Corp.  - Common Stock
+Open: 15.36
+Bid: 16.44
+Ask: 16.45
+Net Change: 8.09%
+Market Change: 8.09%
+AdaptHealth Corp.  - Common Stock
+
+
+Agilent Technologies, Inc. Common Stock
+Exchange: Agilent Technologies, Inc. Common Stock
+Open: 131.69
+Bid: 126.54
+Ask: 126.59
+Net Change: -3.58%
+Market Change: -3.58%
+Agilent Technologies, Inc. Common Stock
+
+
+Alpha Tau Medical Ltd. - Ordinary Shares
+Exchange: Alpha Tau Medical Ltd. - Ordinary Shares
+Open: 9.83
+Bid: 10.61
+Ask: 10.72
+Net Change: 6.63%
+Market Change: 6.63%
+Alpha Tau Medical Ltd. - Ordinary Shares
+
+
+American Express Company Common Stock
+Exchange: American Express Company Common Stock
+Open: 176.57
+Bid: 175.49
+Ask: 175.52
+Net Change: -1.17%
+Market Change: -1.17%
+American Express Company Common Stock
+
+
+Amgen Inc. - Common Stock
+Exchange: Amgen Inc. - Common Stock
+Open: 250.97
+Bid: 249.42
+Ask: 249.48
+Net Change: -0.56%
+Market Change: -0.56%
+Amgen Inc. - Common Stock
+
+
+Apple Inc. - Common Stock
+Exchange: Apple Inc. - Common Stock
+Open: 168.02
+Bid: 167.48
+Ask: 167.5
+Net Change: 1.05%
+Market Change: 1.05%
+Apple Inc. - Common Stock
+
+
+Bicycle Therapeutics plc - American Depositary Shares
+Exchange: Bicycle Therapeutics plc - American Depositary Shares
+Open: 28.09
+Bid: 25.05
+Ask: 25.15
+Net Change: -13.05%
+Market Change: -13.05%
+Bicycle Therapeutics plc - American Depositary Shares
+
+
+Bilibili Inc. - American Depositary Shares
+Exchange: Bilibili Inc. - American Depositary Shares
+Open: 27.4
+Bid: 24.94
+Ask: 24.96
+Net Change: -9.50%
+Market Change: -9.50%
+Bilibili Inc. - American Depositary Shares
+
+
+Bio-Rad Laboratories, Inc. Class A Common Stock
+Exchange: Bio-Rad Laboratories, Inc. Class A Common Stock
+Open: 587.3
+Bid: 564.0
+Ask: 565.04
+Net Change: -4.19%
+Market Change: -4.19%
+Bio-Rad Laboratories, Inc. Class A Common Stock
+
+
+Blue Water Vaccines, Inc. - Common Stock
+Exchange: Blue Water Vaccines, Inc. - Common Stock
+Open: 7.57
+Bid: 6.63
+Ask: 6.74
+Net Change: -16.89%
+Market Change: -16.89%
+Blue Water Vaccines, Inc. - Common Stock
+
+
+Boeing Company (The) Common Stock
+Exchange: Boeing Company (The) Common Stock
+Open: 175.5
+Bid: 176.38
+Ask: 176.44
+Net Change: 0.79%
+Market Change: 0.79%
+Boeing Company (The) Common Stock
+
+
+BriaCell Therapeutics Corp. - Common Shares
+Exchange: BriaCell Therapeutics Corp. - Common Shares
+Open: 11.55
+Bid: 9.85
+Ask: 9.89
+Net Change: -15.50%
+Market Change: -15.50%
+BriaCell Therapeutics Corp. - Common Shares
+
+
+C4 Therapeutics, Inc. - Common Stock
+Exchange: C4 Therapeutics, Inc. - Common Stock
+Open: 7.99
+Bid: 8.68
+Ask: 8.71
+Net Change: 8.61%
+Market Change: 8.61%
+C4 Therapeutics, Inc. - Common Stock
+
+
+CF Industries Holdings, Inc. Common Stock
+Exchange: CF Industries Holdings, Inc. Common Stock
+Open: 108.45
+Bid: 109.79
+Ask: 109.87
+Net Change: 2.63%
+Market Change: 2.63%
+CF Industries Holdings, Inc. Common Stock
+
+
+CarMax Inc
+Exchange: CarMax Inc
+Open: 99.63
+Bid: 95.86
+Ask: 95.94
+Net Change: -7.02%
+Market Change: -7.02%
+CarMax Inc
+
+
+Cardinal Health, Inc. Common Stock
+Exchange: Cardinal Health, Inc. Common Stock
+Open: 62.26
+Bid: 63.19
+Ask: 63.21
+Net Change: 2.98%
+Market Change: 2.98%
+Cardinal Health, Inc. Common Stock
+
+
+Castle Biosciences, Inc. - Common stock
+Exchange: Castle Biosciences, Inc. - Common stock
+Open: 31.75
+Bid: 27.77
+Ask: 27.85
+Net Change: -10.06%
+Market Change: -10.06%
+Castle Biosciences, Inc. - Common stock
+
+
+Catalent, Inc. Common Stock
+Exchange: Catalent, Inc. Common Stock
+Open: 105.98
+Bid: 100.81
+Ask: 100.89
+Net Change: -5.75%
+Market Change: -5.75%
+Catalent, Inc. Common Stock
+
+
+Caterpillar, Inc. Common Stock
+Exchange: Caterpillar, Inc. Common Stock
+Open: 215.45
+Bid: 216.3
+Ask: 216.36
+Net Change: 0.14%
+Market Change: 0.14%
+Caterpillar, Inc. Common Stock
+
+
+Chevron Corporation Common Stock
+Exchange: Chevron Corporation Common Stock
+Open: 168.97
+Bid: 169.35
+Ask: 169.39
+Net Change: 2.30%
+Market Change: 2.30%
+Chevron Corporation Common Stock
+
+
+Chimerix, Inc. - Common Stock
+Exchange: Chimerix, Inc. - Common Stock
+Open: 4.77
+Bid: 4.97
+Ask: 4.98
+Net Change: 6.99%
+Market Change: 6.99%
+Chimerix, Inc. - Common Stock
+
+
+Cisco Systems, Inc. - Common Stock
+Exchange: Cisco Systems, Inc. - Common Stock
+Open: 51.7
+Bid: 51.79
+Ask: 51.8
+Net Change: -2.04%
+Market Change: -2.04%
+Cisco Systems, Inc. - Common Stock
+
+
+Coca-Cola Company (The) Common Stock
+Exchange: Coca-Cola Company (The) Common Stock
+Open: 64.38
+Bid: 64.63
+Ask: 64.64
+Net Change: 1.30%
+Market Change: 1.30%
+Coca-Cola Company (The) Common Stock
+
+
+Darden Restaurants, Inc. Common Stock
+Exchange: Darden Restaurants, Inc. Common Stock
+Open: 129.3
+Bid: 130.69
+Ask: 130.77
+Net Change: 3.30%
+Market Change: 3.30%
+Darden Restaurants, Inc. Common Stock
+
+
+Devon Energy Corporation Common Stock
+Exchange: Devon Energy Corporation Common Stock
+Open: 61.45
+Bid: 62.44
+Ask: 62.46
+Net Change: 4.01%
+Market Change: 4.01%
+Devon Energy Corporation Common Stock
+
+
+Diamondback Energy, Inc. - Commmon Stock
+Exchange: Diamondback Energy, Inc. - Commmon Stock
+Open: 137.27
+Bid: 139.43
+Ask: 139.55
+Net Change: 3.23%
+Market Change: 3.23%
+Diamondback Energy, Inc. - Commmon Stock
+
+
+Dow Inc. Common Stock
+Exchange: Dow Inc. Common Stock
+Open: 62.51
+Bid: 62.96
+Ask: 62.99
+Net Change: 1.66%
+Market Change: 1.66%
+Dow Inc. Common Stock
+
+
+EOG Resources, Inc. Common Stock
+Exchange: EOG Resources, Inc. Common Stock
+Open: 123.8
+Bid: 125.31
+Ask: 125.34
+Net Change: 3.29%
+Market Change: 3.29%
+EOG Resources, Inc. Common Stock
+
+
+EPAM Systems, Inc. Common Stock
+Exchange: EPAM Systems, Inc. Common Stock
+Open: 304.56
+Bid: 297.28
+Ask: 297.93
+Net Change: -2.47%
+Market Change: -2.47%
+EPAM Systems, Inc. Common Stock
+
+
+Etsy, Inc. - Common Stock
+Exchange: Etsy, Inc. - Common Stock
+Open: 120.18
+Bid: 112.87
+Ask: 113.01
+Net Change: -3.59%
+Market Change: -3.59%
+Etsy, Inc. - Common Stock
+
+
+Fulcrum Therapeutics, Inc. - Common Stock
+Exchange: Fulcrum Therapeutics, Inc. - Common Stock
+Open: 18.5
+Bid: 16.5
+Ask: 16.55
+Net Change: -10.40%
+Market Change: -10.13%
+Fulcrum Therapeutics, Inc. - Common Stock
+
+
+Generac Holdlings Inc. Common Stock
+Exchange: Generac Holdlings Inc. Common Stock
+Open: 275.29
+Bid: 265.42
+Ask: 265.97
+Net Change: -4.24%
+Market Change: -4.24%
+Generac Holdlings Inc. Common Stock
+
+
+Gogo Inc. - Common Stock
+Exchange: Gogo Inc. - Common Stock
+Open: 21.01
+Bid: 22.92
+Ask: 22.94
+Net Change: 9.63%
+Market Change: 9.63%
+Gogo Inc. - Common Stock
+
+
+Goldman Sachs Group, Inc. (The) Common Stock
+Exchange: Goldman Sachs Group, Inc. (The) Common Stock
+Open: 321.68
+Bid: 319.54
+Ask: 319.66
+Net Change: -0.33%
+Market Change: -0.34%
+Goldman Sachs Group, Inc. (The) Common Stock
+
+
+Honeywell International Inc. - Common Stock
+Exchange: Honeywell International Inc. - Common Stock
+Open: 190.9
+Bid: 190.88
+Ask: 190.93
+Net Change: 0.86%
+Market Change: 0.86%
+Honeywell International Inc. - Common Stock
+
+
+IDEXX Laboratories, Inc. - Common Stock
+Exchange: IDEXX Laboratories, Inc. - Common Stock
+Open: 517.95
+Bid: 496.5
+Ask: 497.32
+Net Change: -3.45%
+Market Change: -3.45%
+IDEXX Laboratories, Inc. - Common Stock
+
+
+Integrated Media Technology Limited - Ordinary Shares
+Exchange: Integrated Media Technology Limited - Ordinary Shares
+Open: 7.29
+Bid: 5.95
+Ask: 6.02
+Net Change: -13.38%
+Market Change: -13.38%
+Integrated Media Technology Limited - Ordinary Shares
+
+
+JP Morgan Chase & Co. Common Stock
+Exchange: JP Morgan Chase & Co. Common Stock
+Open: 132.14
+Bid: 131.54
+Ask: 131.57
+Net Change: -1.08%
+Market Change: -1.08%
+JP Morgan Chase & Co. Common Stock
+
+
+KLX Energy Services Holdings, Inc.  - Common Stock
+Exchange: KLX Energy Services Holdings, Inc.  - Common Stock
+Open: 5.34
+Bid: 5.82
+Ask: 5.84
+Net Change: 11.80%
+Market Change: 11.80%
+KLX Energy Services Holdings, Inc.  - Common Stock
+
+
+Marathon Oil Corporation Common Stock
+Exchange: Marathon Oil Corporation Common Stock
+Open: 25.8
+Bid: 26.51
+Ask: 26.52
+Net Change: 5.13%
+Market Change: 5.13%
+Marathon Oil Corporation Common Stock
+
+
+Match Group, Inc. - Common Stock
+Exchange: Match Group, Inc. - Common Stock
+Open: 98.51
+Bid: 93.12
+Ask: 93.22
+Net Change: -3.41%
+Market Change: -3.41%
+Match Group, Inc. - Common Stock
+
+
+Merck & Company, Inc. Common Stock (new)
+Exchange: Merck & Company, Inc. Common Stock (new)
+Open: 86.0
+Bid: 85.78
+Ask: 85.79
+Net Change: -0.98%
+Market Change: -0.98%
+Merck & Company, Inc. Common Stock (new)
+
+
+Microsoft Corporation - Common Stock
+Exchange: Microsoft Corporation - Common Stock
+Open: 289.235
+Bid: 282.63
+Ask: 282.66
+Net Change: -0.92%
+Market Change: -0.92%
+Microsoft Corporation - Common Stock
+
+
+Nucor Corporation Common Stock
+Exchange: Nucor Corporation Common Stock
+Open: 154.76
+Bid: 157.01
+Ask: 157.1
+Net Change: 2.79%
+Market Change: 2.79%
+Nucor Corporation Common Stock
+
+
+Pioneer Natural Resources Company Common Stock
+Exchange: Pioneer Natural Resources Company Common Stock
+Open: 252.57
+Bid: 253.18
+Ask: 253.37
+Net Change: 2.80%
+Market Change: 2.79%
+Pioneer Natural Resources Company Common Stock
+
+
+Ramaco Resources, Inc. - Common Stock
+Exchange: Ramaco Resources, Inc. - Common Stock
+Open: 15.68
+Bid: 17.45
+Ask: 17.5
+Net Change: 14.10%
+Market Change: 14.10%
+Ramaco Resources, Inc. - Common Stock
+
+
+Silicon Motion Technology Corporation - American Depositary Shares, each represe
+Exchange: Silicon Motion Technology Corporation - American Depositary Shares, each represe
+Open: 71.43
+Bid: 75.25
+Ask: 75.33
+Net Change: 7.19%
+Market Change: 7.19%
+Silicon Motion Technology Corporation - American Depositary Shares, each represe
+
+
+Singularity Future Technology Ltd. - Common Stock
+Exchange: Singularity Future Technology Ltd. - Common Stock
+Open: 7.44
+Bid: 8.93
+Ask: 8.99
+Net Change: 26.55%
+Market Change: 26.55%
+Singularity Future Technology Ltd. - Common Stock
+
+
+TeraWulf Inc. - Common Stock
+Exchange: TeraWulf Inc. - Common Stock
+Open: 6.77
+Bid: 5.61
+Ask: 5.65
+Net Change: -28.30%
+Market Change: -28.30%
+TeraWulf Inc. - Common Stock
+
+
+Twitter, Inc. Common Stock
+Exchange: Twitter, Inc. Common Stock
+Open: 47.03
+Bid: 44.91
+Ask: 44.92
+Net Change: -4.47%
+Market Change: -4.47%
+Twitter, Inc. Common Stock
+
+
+UnitedHealth Group Incorporated Common Stock (DE)
+Exchange: UnitedHealth Group Incorporated Common Stock (DE)
+Open: 535.41
+Bid: 534.67
+Ask: 534.87
+Net Change: -0.50%
+Market Change: -0.50%
+UnitedHealth Group Incorporated Common Stock (DE)
+
+
+Veru Inc. - Common Stock
+Exchange: Veru Inc. - Common Stock
+Open: 13.61
+Bid: 10.08
+Ask: 10.09
+Net Change: -17.92%
+Market Change: -17.92%
+Veru Inc. - Common Stock
+
+
+Visa Inc.
+Exchange: Visa Inc.
+Open: 216.5
+Bid: 212.04
+Ask: 212.08
+Net Change: -1.26%
+Market Change: -1.26%
+Visa Inc.
+
+
+Zentalis Pharmaceuticals, Inc. - common stock
+Exchange: Zentalis Pharmaceuticals, Inc. - common stock
+Open: 30.8
+Bid: 26.81
+Ask: 26.92
+Net Change: -14.06%
+Market Change: -14.06%
+Zentalis Pharmaceuticals, Inc. - common stock
+
+
+ZimVie Inc. - Common Stock
+Exchange: ZimVie Inc. - Common Stock
+Open: 24.46
+Bid: 25.48
+Ask: 25.67
+Net Change: 6.75%
+Market Change: 6.75%
+ZimVie Inc. - Common Stock
+
+
+description
+Exchange: description
+Open: Open Price
+Bid: Bid Price
+Ask: Ask Price
+description
+
+

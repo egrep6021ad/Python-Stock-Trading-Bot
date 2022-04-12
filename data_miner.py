@@ -47,7 +47,7 @@ def get_biggest_daily_movers():
     endpoint = movers_url.format(index = i)
     data = requests.get(url= endpoint, 
                 params={'apikey' : td_consumer_key})
-    print(data.json())
+  
     # Jsonify()
     data = data.json()
     
@@ -171,6 +171,7 @@ def get_history(ticker):
                         params={'apikey' : td_consumer_key})
     #content = json.loads(page.content)
     data = page.json()
+    pprint(data)
     temp = data['candles']
     sym = f"${data['symbol']}"
     for x in temp:
@@ -201,46 +202,111 @@ def get_history(ticker):
 
 
 #Options arent working!
-def options():
-  ts =00
-  datetime.utcfromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
-  print('options:')
-  base_url = 'https://api.tdameritrade.com/v1/marketdata/chains?&symbol={stock_ticker}&contractType={contractType}&fromDate={date}&toDate={date2}'
-  endpoint = base_url.format(stock_ticker = 'AAL',
-    contractType = 'PUT',
-    date='2022-05-10',date2='2022-05-17')
+def options(stock):
+
+  # Get underlying Stock information:
+  endpoint = quotes_url.format(stock_ticker = stock)
+  quotes = requests.get(url=endpoint, 
+              params={'apikey' : td_consumer_key})
+  data = quotes.json()
+   # Build Dictionary   
+  temp = (data[stock]['description'],
+          data[stock]['openPrice'],
+          data[stock]['bidPrice'],
+          data[stock]['askPrice'],
+          data[stock]['netPercentChangeInDouble'],
+          data[stock]['markPercentChangeInDouble'])
+  
+
+  base_url = 'https://api.tdameritrade.com/v1/marketdata/chains?&symbol={stock_ticker}&contractType={contractType}&fromDate={date}&toDate={date2}&range={range}'
+  
+  endpoint = base_url.format(stock_ticker = stock,
+    contractType = 'ALL',
+    date='2022-04-12',date2='2022-06-17',range='NTM')
   data = requests.get(url=endpoint, 
               params={'apikey' : td_consumer_key})
   
-  #content = json.loads(page.content)
+
   data = data.json()
-  pprint(data)
-  print(type(data))
+
+  with open(f'./{today}/{today[5:]}\'s PUT_options.csv', 'w+') as f: 
+    dict = {}
+    n = 0
+    pen = csv.writer(f)
+    k = data['putExpDateMap']
+    for (key,value) in k.items():
+      for (k,v) in value.items():
+        quoteDate = datetime.utcfromtimestamp((v[0]['quoteTimeInLong']/1000)).strftime('%Y-%m-%d %H:%M:%S')
+        trade_time = datetime.utcfromtimestamp((v[0]['expirationDate']/1000)).strftime('%Y-%m-%d %H:%M:%S')
   
+  
+        option_info = (v[0]['description'],temp[0],v[0]['strikePrice'],v[0]['inTheMoney'],temp[2],temp[3],v[0]['ask'],v[0]['bid'],v[0]['theoreticalOptionValue'],v[0]['delta'],v[0]['gamma'],v[0]['theta'],v[0]['vega'],v[0]['timeValue'],v[0]['volatility'],v[0]['theoreticalVolatility'],quoteDate,trade_time)
+        dict.update({n : option_info})
+        n += 1
+    for x in dict:
+      pen.writerow(dict[x])
+    dict = {}
+    n = 0
+    
+  with open(f'./{today}/{today[5:]}\'s CALL_options.csv', 'w+') as f: 
+    pen = csv.writer(f)
+    k = data['callExpDateMap']
+    for (key,value) in k.items():
+      for (k,v) in value.items():
+        quoteDate = datetime.utcfromtimestamp((v[0]['quoteTimeInLong']/1000)).strftime('%Y-%m-%d %H:%M:%S')
+        trade_time = datetime.utcfromtimestamp((v[0]['expirationDate']/1000)).strftime('%Y-%m-%d %H:%M:%S')
+  
+  
+        option_info = (v[0]['description'],temp[0],v[0]['strikePrice'],v[0]['inTheMoney'],temp[2],temp[3],v[0]['ask'],v[0]['bid'],v[0]['theoreticalOptionValue'],v[0]['delta'],v[0]['gamma'],v[0]['theta'],v[0]['vega'],v[0]['timeValue'],v[0]['volatility'],v[0]['theoreticalVolatility'],quoteDate,trade_time)
+        dict.update({n : option_info})
+        n += 1
+    for x in dict:
+      pen.writerow(dict[x])
+      
+  return  0
+    
+
+
+    
+    
+    
+  
+
+
+
+
+
 
 
 
 if __name__ == "__main__":
   # Returns array of SYMBOLS for days biggest movers:
+  #arr = get_biggest_daily_movers()
+  
+  #good arr = ['IRM','TSLA','MULN','GBTC','AAPL','TWTR',MLPA ,BORR,'ECTM',RODM,MDVL,'TSRI','SGLY','RERE']
+  #bad arr = ['BA','NFLX','FB','AEHAW',KJUL,NYMT,'FLRG','$ATER','KLDO','CRI','WHR',BURL,QEPC]
 
-  
-  #good arr = ['IRM','TSLA','MULN','GBTC','AAPL','TWTR',MLPA ,RODM,MDVL,'TSRI','SGLY']
-  #bad arr = ['BA','NFLX','FB','AEHAW',KJUL,NYMT,'FLRG','$ATER','KLDO']
-  arr = ['IRM']
-  
-  print(arr)
-  time.sleep(0.5)
+  #print(arr)
+  arr = ['TSLA']
+  #arr = ['VERU']
+  #time.sleep(10)
   print("40 Seconds.")
   # Get Quotes for all of those big movers:
   #get_quotes(arr)
-  time.sleep(0.5)
+  #time.sleep(10)
   print("30 Seconds..")
   # Get fundamentals on the biggest movers:
+  
   #get_fundamentals(arr)
-  time.sleep(0.5)
+  #time.sleep(10)
   print("20 Seconds...")
+  #print(arr)
+ 
+  try:
   # Get 3 month breakout on those movers (trend finding / hopping)
-  get_history(arr)
-  print(f'Done! check {today}\'s folder!')
-  #options()
+    print("WAIT")
+    #get_history(arr)
+  except KeyError:
+    print(f'Done! check {today}\'s folder!')
+  options(arr[0])
 

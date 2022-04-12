@@ -1,5 +1,61 @@
 description,Open Price,Bid Price,Ask Price,Net % Change (decimal),Market % change (decimal)
-Apple Inc. - Common Stock,171.78,169.72,169.8,-0.1764,0.0
-Hartford Multifactor Developed Markets (ex-US) ETF,28.91,24.66,33.73,0.0,0.0
-"New York Mortgage Trust, Inc. - Common Stock",3.41,3.45,3.5,0.2907,0.0
-Global X MLP ETF,40.92,40.54,42.0,0.0,0.0
+Microsoft Corporation - Common Stock,291.79,285.76,285.8,-3.7714,-3.7714
+"Nike, Inc. Common Stock",125.1,125.03,125.07,-2.419,-2.419
+American Express Company Common Stock,181.06,180.14,180.24,-1.9107,-1.9107
+Apple Inc. - Common Stock,168.71,166.3,166.31,-2.2282,-2.2282
+"Salesforce, Inc. Common Stock",194.21,192.68,192.74,-2.262,-2.262
+"Cisco Systems, Inc. - Common Stock",53.92,53.29,53.3,-1.8239,-1.8239
+Visa Inc.,215.25,213.54,213.6,-1.5808,-1.5808
+Chevron Corporation Common Stock,168.57,167.31,167.33,-1.53,-1.53
+Walt Disney Company (The) Common Stock,130.04,130.91,130.96,-0.7128,-0.7128
+"Home Depot, Inc. (The) Common Stock",307.81,309.54,309.67,-0.4918,-0.4918
+Verizon Communications Inc. Common Stock,53.87,54.4,54.41,1.6346,1.6346
+"The Travelers Companies, Inc. Common Stock",185.92,186.92,187.09,1.1793,1.1793
+Amgen Inc. - Common Stock,253.6,254.1,254.26,0.861,0.861
+Boeing Company (The) Common Stock,173.84,177.29,177.35,1.2043,1.2043
+"Goldman Sachs Group, Inc. (The) Common Stock",320.61,325.18,325.32,1.2104,1.2104
+3M Company Common Stock,150.45,151.59,151.64,1.2049,1.2049
+"Walgreens Boots Alliance, Inc. - Common Stock",45.49,46.08,46.09,1.4641,1.4641
+Dow Inc. Common Stock,61.35,62.21,62.22,0.8729,0.8729
+Coca-Cola Company (The) Common Stock,63.905,64.19,64.2,0.5718,0.5718
+Procter & Gamble Company (The) Common Stock,159.95,160.18,160.26,0.0437,0.05
+AT&T Inc.,18.89,19.31,19.32,-19.971,-19.971
+NVIDIA Corporation - Common Stock,222.14,218.84,218.91,-5.3328,-5.3328
+Occidental Petroleum Corporation Common Stock,60.55,58.45,58.46,-5.4207,-5.4207
+"Advanced Micro Devices, Inc. - Common Stock",98.6,96.7,96.72,-4.2533,-4.2533
+"Enphase Energy, Inc. - Common Stock",191.0,187.52,187.78,-3.7768,-3.7768
+"Diamondback Energy, Inc. - Commmon Stock",138.94,135.34,135.44,-4.6693,-4.6693
+"IDEXX Laboratories, Inc. - Common Stock",538.14,518.12,519.67,-5.2639,-5.2639
+"Match Group, Inc. - Common Stock",99.83,96.49,96.65,-3.8913,-3.8913
+"Monolithic Power Systems, Inc. - Common Stock",406.99,394.3,395.37,-3.9887,-3.9887
+ConocoPhillips Common Stock,101.9,98.61,98.63,-4.2989,-4.2989
+"Delta Air Lines, Inc. Common Stock",36.7,38.34,38.35,4.3612,4.3612
+"Ross Stores, Inc. - Common Stock",99.16,100.87,100.92,4.1822,4.1822
+Molson Coors Beverage Company Class B Common Stock,51.81,53.47,53.5,3.7335,3.7335
+"American Airlines Group, Inc. - Common Stock",16.5,17.13,17.14,3.2851,3.2851
+General Motors Company Common Stock,38.81,40.8,40.81,3.6851,3.6851
+Lockheed Martin Corporation Common Stock,463.79,472.4,472.87,2.4051,2.4051
+"Bath & Body Works, Inc.",46.09,47.53,47.57,3.0783,3.0783
+"Tapestry, Inc. Common Stock",32.91,34.23,34.26,3.0075,3.0075
+"Charter Communications, Inc. - Class A Common Stock",560.38,569.49,569.87,2.2005,2.2005
+"Huntington Ingalls Industries, Inc. Common Stock",207.07,209.91,210.47,2.0884,2.0884
+Bicycle Therapeutics plc - American Depositary Shares,31.68,32.0,32.32,-31.3684,-31.3684
+Singularity Future Technology Ltd. - Common Stock,11.0,8.46,8.5,-33.1225,-33.1225
+"Blue Water Vaccines, Inc. - Common Stock",9.6,8.65,8.7,-20.0461,-20.0461
+"C4 Therapeutics, Inc. - Common Stock",10.19,9.25,9.29,-17.9329,-17.9329
+"Werewolf Therapeutics, Inc. - Common Stock",5.52,5.06,5.09,-13.9116,-13.9116
+"Zentalis Pharmaceuticals, Inc. - common stock",33.0,29.65,29.76,-12.5552,-12.5552
+Snow Lake Resources Ltd. - Common Shares,6.51,5.9,5.94,-12.5184,-12.5184
+Cerberus Cyber Sentinel Corporation - Common Stock,6.35,6.07,6.16,-6.8807,-6.8807
+"Nurix Therapeutics, Inc. - Common stock",14.08,13.27,13.31,-10.054,-10.1889
+Eagle Bulk Shipping Inc. - Common Stock,66.07,59.56,59.91,-10.2674,-10.2674
+Veru Inc. - Common Stock,5.99,7.73,7.74,77.7678,77.7678
+"VNET Group, Inc. - American Depositary Shares",6.44,6.87,6.88,27.4,27.4
+Affimed N.V. - Common Stock,4.895,5.03,5.04,13.7698,13.7698
+Bilibili Inc. - American Depositary Shares,28.225,27.46,27.49,6.8456,6.8456
+Chindata Group Holdings Limited - American Depositary Shares,5.74,5.74,5.76,6.0998,6.0998
+"Citi Trends, Inc. - Common Stock",30.2,32.48,32.65,7.5297,7.5297
+"Zynex, Inc. - Common Stock",6.09,6.39,6.4,5.2632,5.2632
+CyberArk Software Ltd. - Ordinary Shares,164.28,173.98,174.36,6.1727,6.1727
+"Rapid7, Inc. - Common Stock",106.14,109.35,109.47,4.0537,4.0537
+Opendoor Technologies Inc  - Common Stock,7.16,7.54,7.55,3.6401,3.6401

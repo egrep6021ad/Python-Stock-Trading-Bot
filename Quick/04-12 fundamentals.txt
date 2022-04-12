@@ -1,0 +1,754 @@
+3M Company Common Stock
+PE_Ratio: 14.84284
+Beta: 0.96509
+High52: 208.95
+Low52: 139.74
+MarketCap: 85444.09
+MarketCap Float: 568.4538
+Dividend Pay Ammount: 1.49
+Dividend Pay Date: 2022-03-12 
+Net Profit Margin TTM: 16.74162
+3M Company Common Stock
+
+
+APA Corporation - Common Stock
+PE_Ratio: 15.72533
+Beta: 4.41611
+High52: 43.88
+Low52: 15.545
+MarketCap: 14248.3
+MarketCap Float: 329.2465
+Dividend Pay Ammount: 0.125
+Dividend Pay Date: 2022-05-23 
+Net Profit Margin TTM: 16.44333
+APA Corporation - Common Stock
+
+
+AdaptHealth Corp.  - Common Stock
+PE_Ratio: 14.75138
+Beta: 0.28882
+High52: 38.03
+Low52: 13.95
+MarketCap: 2036.75
+MarketCap Float: 87.71695
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 6.4433
+AdaptHealth Corp.  - Common Stock
+
+
+Agilent Technologies, Inc. Common Stock
+PE_Ratio: 33.31421
+Beta: 1.05383
+High52: 179.57
+Low52: 123.06
+MarketCap: 39392.88
+MarketCap Float: 299.3933
+Dividend Pay Ammount: 0.21
+Dividend Pay Date: 2022-04-27 
+Net Profit Margin TTM: 18.69666
+Agilent Technologies, Inc. Common Stock
+
+
+Alpha Tau Medical Ltd. - Ordinary Shares
+PE_Ratio: 61.28099
+Beta: 0.0
+High52: 20.65
+Low52: 8.2655
+MarketCap: 662.6315
+MarketCap Float: 59.65427
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Alpha Tau Medical Ltd. - Ordinary Shares
+
+
+American Express Company Common Stock
+PE_Ratio: 17.76848
+Beta: 1.10242
+High52: 199.55
+Low52: 140.68
+MarketCap: 134471.8
+MarketCap Float: 756.3354
+Dividend Pay Ammount: 0.52
+Dividend Pay Date: 2022-05-10 
+Net Profit Margin TTM: 18.81507
+American Express Company Common Stock
+
+
+Amgen Inc. - Common Stock
+PE_Ratio: 24.33059
+Beta: 0.58345
+High52: 261.0
+Low52: 198.64
+MarketCap: 133910.6
+MarketCap Float: 532.4592
+Dividend Pay Ammount: 1.94
+Dividend Pay Date: 2022-06-08 
+Net Profit Margin TTM: 22.68371
+Amgen Inc. - Common Stock
+
+
+Apple Inc. - Common Stock
+PE_Ratio: 27.51837
+Beta: 1.19726
+High52: 182.94
+Low52: 122.25
+MarketCap: 2704947.0
+MarketCap Float: 16308.0
+Dividend Pay Ammount: 0.22
+Dividend Pay Date: 2022-02-10 
+Net Profit Margin TTM: 26.57914
+Apple Inc. - Common Stock
+
+
+Bicycle Therapeutics plc - American Depositary Shares
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 62.075
+Low52: 26.39
+MarketCap: 852.7361
+MarketCap Float: 4.33333
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Bicycle Therapeutics plc - American Depositary Shares
+
+
+Bilibili Inc. - American Depositary Shares
+PE_Ratio: 0.0
+Beta: 1.27857
+High52: 129.24
+Low52: 14.93
+MarketCap: 10594.74
+MarketCap Float: 290.3884
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Bilibili Inc. - American Depositary Shares
+
+
+Bio-Rad Laboratories, Inc. Class A Common Stock
+PE_Ratio: 4.20993
+Beta: 0.90334
+High52: 832.7
+Low52: 524.19
+MarketCap: 17651.14
+MarketCap Float: 21.51701
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 145.281
+Bio-Rad Laboratories, Inc. Class A Common Stock
+
+
+Blue Water Vaccines, Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 90.9
+Low52: 8.01
+MarketCap: 88.94113
+MarketCap Float: 4.23739
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Blue Water Vaccines, Inc. - Common Stock
+
+
+Boeing Company (The) Common Stock
+PE_Ratio: 0.0
+Beta: 1.41811
+High52: 258.3957
+Low52: 167.58
+MarketCap: 103335.1
+MarketCap Float: 589.8143
+Dividend Pay Ammount: 2.055
+Dividend Pay Date: 2020-03-06 
+Net Profit Margin TTM: 0.0
+Boeing Company (The) Common Stock
+
+
+BriaCell Therapeutics Corp. - Common Shares
+PE_Ratio: 34.0
+Beta: 0.0
+High52: 12.47
+Low52: 2.8149
+MarketCap: 0.0
+MarketCap Float: 0.0
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+BriaCell Therapeutics Corp. - Common Shares
+
+
+C4 Therapeutics, Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 51.21
+Low52: 7.96
+MarketCap: 390.3983
+MarketCap Float: 42.56179
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+C4 Therapeutics, Inc. - Common Stock
+
+
+CF Industries Holdings, Inc. Common Stock
+PE_Ratio: 25.22462
+Beta: 1.01988
+High52: 110.4
+Low52: 43.185
+MarketCap: 22385.62
+MarketCap Float: 208.2787
+Dividend Pay Ammount: 0.3
+Dividend Pay Date: 2022-02-28 
+Net Profit Margin TTM: 19.27195
+CF Industries Holdings, Inc. Common Stock
+
+
+CarMax Inc
+PE_Ratio: 14.22928
+Beta: 1.43673
+High52: 155.98
+Low52: 94.35
+MarketCap: 16680.51
+MarketCap Float: 161.18
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 4.08948
+CarMax Inc
+
+
+Cardinal Health, Inc. Common Stock
+PE_Ratio: 32.11225
+Beta: 0.90141
+High52: 62.75
+Low52: 45.85
+MarketCap: 17006.03
+MarketCap Float: 275.8557
+Dividend Pay Ammount: 0.4908
+Dividend Pay Date: 2022-04-15 
+Net Profit Margin TTM: 0.3246
+Cardinal Health, Inc. Common Stock
+
+
+Castle Biosciences, Inc. - Common stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 78.92
+Low52: 30.56
+MarketCap: 785.6958
+MarketCap Float: 23.11302
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Castle Biosciences, Inc. - Common stock
+
+
+Catalent, Inc. Common Stock
+PE_Ratio: 32.86585
+Beta: 1.38902
+High52: 142.64
+Low52: 91.17
+MarketCap: 19175.66
+MarketCap Float: 178.6631
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 13.47608
+Catalent, Inc. Common Stock
+
+
+Caterpillar, Inc. Common Stock
+PE_Ratio: 18.35088
+Beta: 0.95098
+High52: 246.69
+Low52: 179.67
+MarketCap: 115778.6
+MarketCap Float: 534.8172
+Dividend Pay Ammount: 1.11
+Dividend Pay Date: 2022-02-18 
+Net Profit Margin TTM: 12.60717
+Caterpillar, Inc. Common Stock
+
+
+Chevron Corporation Common Stock
+PE_Ratio: 20.35222
+Beta: 1.13031
+High52: 174.76
+Low52: 92.86
+MarketCap: 325302.6
+MarketCap Float: 1946.841
+Dividend Pay Ammount: 1.42
+Dividend Pay Date: 2022-03-10 
+Net Profit Margin TTM: 10.06479
+Chevron Corporation Common Stock
+
+
+Chimerix, Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 1.3358
+High52: 9.29
+Low52: 4.56
+MarketCap: 404.6787
+MarketCap Float: 82.94841
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Chimerix, Inc. - Common Stock
+
+
+Cisco Systems, Inc. - Common Stock
+PE_Ratio: 18.91449
+Beta: 0.9541
+High52: 64.285
+Low52: 50.1
+MarketCap: 219672.4
+MarketCap Float: 4151.281
+Dividend Pay Ammount: 0.38
+Dividend Pay Date: 2022-04-27 
+Net Profit Margin TTM: 22.93934
+Cisco Systems, Inc. - Common Stock
+
+
+Coca-Cola Company (The) Common Stock
+PE_Ratio: 28.34501
+Beta: 0.65259
+High52: 64.3
+Low52: 52.28
+MarketCap: 276616.0
+MarketCap Float: 4305.989
+Dividend Pay Ammount: 0.44
+Dividend Pay Date: 2022-04-01 
+Net Profit Margin TTM: 25.36282
+Coca-Cola Company (The) Common Stock
+
+
+Darden Restaurants, Inc. Common Stock
+PE_Ratio: 15.90558
+Beta: 1.41239
+High52: 164.277
+Low52: 116.035
+MarketCap: 15783.88
+MarketCap Float: 121.1902
+Dividend Pay Ammount: 1.1
+Dividend Pay Date: 2022-05-02 
+Net Profit Margin TTM: 11.19672
+Darden Restaurants, Inc. Common Stock
+
+
+Devon Energy Corporation Common Stock
+PE_Ratio: 14.35256
+Beta: 2.78515
+High52: 63.26
+Low52: 20.14
+MarketCap: 39871.93
+MarketCap Float: 628.9814
+Dividend Pay Ammount: 1.0
+Dividend Pay Date: 2022-03-31 
+Net Profit Margin TTM: 23.77077
+Devon Energy Corporation Common Stock
+
+
+Diamondback Energy, Inc. - Commmon Stock
+PE_Ratio: 11.10449
+Beta: 2.2895
+High52: 147.99
+Low52: 65.9304
+MarketCap: 23970.54
+MarketCap Float: 176.481
+Dividend Pay Ammount: 0.6
+Dividend Pay Date: 2022-03-11 
+Net Profit Margin TTM: 33.48536
+Diamondback Energy, Inc. - Commmon Stock
+
+
+Dow Inc. Common Stock
+PE_Ratio: 7.38961
+Beta: 0.0
+High52: 71.38
+Low52: 52.07
+MarketCap: 45579.54
+MarketCap Float: 734.6985
+Dividend Pay Ammount: 0.7
+Dividend Pay Date: 2022-03-11 
+Net Profit Margin TTM: 11.65223
+Dow Inc. Common Stock
+
+
+EOG Resources, Inc. Common Stock
+PE_Ratio: 15.18975
+Beta: 1.77953
+High52: 127.945
+Low52: 62.81
+MarketCap: 71031.16
+MarketCap Float: 583.0597
+Dividend Pay Ammount: 0.75
+Dividend Pay Date: 2022-04-29 
+Net Profit Margin TTM: 25.04161
+EOG Resources, Inc. Common Stock
+
+
+EPAM Systems, Inc. Common Stock
+PE_Ratio: 37.45515
+Beta: 1.80542
+High52: 725.4
+Low52: 168.5925
+MarketCap: 17369.0
+MarketCap Float: 54.99028
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 12.81622
+EPAM Systems, Inc. Common Stock
+
+
+Etsy, Inc. - Common Stock
+PE_Ratio: 34.8476
+Beta: 1.64427
+High52: 307.75
+Low52: 109.38
+MarketCap: 14890.8
+MarketCap Float: 126.153
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 20.96729
+Etsy, Inc. - Common Stock
+
+
+Fulcrum Therapeutics, Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 33.0975
+Low52: 6.85
+MarketCap: 746.0993
+MarketCap Float: 37.45373
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Fulcrum Therapeutics, Inc. - Common Stock
+
+
+Generac Holdlings Inc. Common Stock
+PE_Ratio: 32.37405
+Beta: 1.0123
+High52: 524.31
+Low52: 251.7436
+MarketCap: 17693.58
+MarketCap Float: 62.78654
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 14.89274
+Generac Holdlings Inc. Common Stock
+
+
+Gogo Inc. - Common Stock
+PE_Ratio: 42.77823
+Beta: 1.03959
+High52: 22.27
+Low52: 9.61
+MarketCap: 2318.467
+MarketCap Float: 80.29201
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 46.64329
+Gogo Inc. - Common Stock
+
+
+Goldman Sachs Group, Inc. (The) Common Stock
+PE_Ratio: 5.40443
+Beta: 1.45454
+High52: 426.1582
+Low52: 308.2
+MarketCap: 108392.8
+MarketCap Float: 336.1528
+Dividend Pay Ammount: 2.0
+Dividend Pay Date: 2022-03-30 
+Net Profit Margin TTM: 33.29025
+Goldman Sachs Group, Inc. (The) Common Stock
+
+
+Honeywell International Inc. - Common Stock
+PE_Ratio: 23.92014
+Beta: 1.12768
+High52: 236.86
+Low52: 174.42
+MarketCap: 129741.1
+MarketCap Float: 684.8431
+Dividend Pay Ammount: 0.98
+Dividend Pay Date: 2022-03-11 
+Net Profit Margin TTM: 16.31193
+Honeywell International Inc. - Common Stock
+
+
+IDEXX Laboratories, Inc. - Common Stock
+PE_Ratio: 59.80392
+Beta: 1.01576
+High52: 706.95
+Low52: 460.36
+MarketCap: 43328.61
+MarketCap Float: 83.42249
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 23.16518
+IDEXX Laboratories, Inc. - Common Stock
+
+
+Integrated Media Technology Limited - Ordinary Shares
+PE_Ratio: 14.53521
+Beta: 2.92252
+High52: 38.478
+Low52: 3.305
+MarketCap: 64.52632
+MarketCap Float: 6.91158
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 29.35707
+Integrated Media Technology Limited - Ordinary Shares
+
+
+JP Morgan Chase & Co. Common Stock
+PE_Ratio: 8.66771
+Beta: 1.09604
+High52: 172.96
+Low52: 127.27
+MarketCap: 390989.4
+MarketCap Float: 2912.865
+Dividend Pay Ammount: 1.0
+Dividend Pay Date: 2022-04-30 
+Net Profit Margin TTM: 39.73234
+JP Morgan Chase & Co. Common Stock
+
+
+KLX Energy Services Holdings, Inc.  - Common Stock
+PE_Ratio: 0.0
+Beta: 2.41726
+High52: 15.55
+Low52: 2.94
+MarketCap: 54.595
+MarketCap Float: 6.17158
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+KLX Energy Services Holdings, Inc.  - Common Stock
+
+
+Marathon Oil Corporation Common Stock
+PE_Ratio: 20.85073
+Beta: 2.7596
+High52: 26.4
+Low52: 9.7
+MarketCap: 18122.11
+MarketCap Float: 716.5651
+Dividend Pay Ammount: 0.07
+Dividend Pay Date: 2022-03-10 
+Net Profit Margin TTM: 17.24389
+Marathon Oil Corporation Common Stock
+
+
+Match Group, Inc. - Common Stock
+PE_Ratio: 116.1853
+Beta: 0.58196
+High52: 182.0
+Low52: 84.2
+MarketCap: 27516.81
+MarketCap Float: 276.7326
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 9.25308
+Match Group, Inc. - Common Stock
+
+
+Merck & Company, Inc. Common Stock (new)
+PE_Ratio: 17.80298
+Beta: 0.45456
+High52: 91.4
+Low52: 15.32
+MarketCap: 219031.2
+MarketCap Float: 2526.247
+Dividend Pay Ammount: 0.69
+Dividend Pay Date: 2022-04-07 
+Net Profit Margin TTM: 25.37369
+Merck & Company, Inc. Common Stock (new)
+
+
+Microsoft Corporation - Common Stock
+PE_Ratio: 30.34955
+Beta: 0.92308
+High52: 349.67
+Low52: 238.07
+MarketCap: 2138556.0
+MarketCap Float: 7481.118
+Dividend Pay Ammount: 0.62
+Dividend Pay Date: 2022-06-09 
+Net Profit Margin TTM: 38.49856
+Microsoft Corporation - Common Stock
+
+
+Nucor Corporation Common Stock
+PE_Ratio: 6.50628
+Beta: 1.33985
+High52: 157.69
+Low52: 75.6
+MarketCap: 41069.42
+MarketCap Float: 267.5457
+Dividend Pay Ammount: 0.5
+Dividend Pay Date: 2022-05-11 
+Net Profit Margin TTM: 19.52193
+Nucor Corporation Common Stock
+
+
+Pioneer Natural Resources Company Common Stock
+PE_Ratio: 29.95513
+Beta: 1.60603
+High52: 260.0
+Low52: 133.73
+MarketCap: 59868.48
+MarketCap Float: 241.4673
+Dividend Pay Ammount: 0.78
+Dividend Pay Date: 2022-03-14 
+Net Profit Margin TTM: 11.85227
+Pioneer Natural Resources Company Common Stock
+
+
+Ramaco Resources, Inc. - Common Stock
+PE_Ratio: 17.1668
+Beta: 1.11104
+High52: 21.73
+Low52: 3.83
+MarketCap: 678.2683
+MarketCap Float: 31.24589
+Dividend Pay Ammount: 0.1129
+Dividend Pay Date: 2022-03-15 
+Net Profit Margin TTM: 14.02958
+Ramaco Resources, Inc. - Common Stock
+
+
+Silicon Motion Technology Corporation - American Depositary Shares, each represe
+PE_Ratio: 12.29815
+Beta: 1.18498
+High52: 96.89
+Low52: 58.86
+MarketCap: 2453.493
+MarketCap Float: 30.19301
+Dividend Pay Ammount: 0.3
+Dividend Pay Date: 2022-05-11 
+Net Profit Margin TTM: 21.6842
+Silicon Motion Technology Corporation - American Depositary Shares, each represe
+
+
+Singularity Future Technology Ltd. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.47029
+High52: 19.86
+Low52: 2.09
+MarketCap: 155.6208
+MarketCap Float: 20.12185
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Singularity Future Technology Ltd. - Common Stock
+
+
+TeraWulf Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.84447
+High52: 43.98
+Low52: 4.03
+MarketCap: 793.5168
+MarketCap Float: 31.8313
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+TeraWulf Inc. - Common Stock
+
+
+Twitter, Inc. Common Stock
+PE_Ratio: 0.0
+Beta: 0.76809
+High52: 73.34
+Low52: 31.3
+MarketCap: 37638.14
+MarketCap Float: 780.1086
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Twitter, Inc. Common Stock
+
+
+UnitedHealth Group Incorporated Common Stock (DE)
+PE_Ratio: 29.72616
+Beta: 0.86998
+High52: 548.97
+Low52: 374.03
+MarketCap: 505676.8
+MarketCap Float: 935.6622
+Dividend Pay Ammount: 1.45
+Dividend Pay Date: 2022-03-22 
+Net Profit Margin TTM: 6.16557
+UnitedHealth Group Incorporated Common Stock (DE)
+
+
+Veru Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.21958
+High52: 14.57
+Low52: 4.34
+MarketCap: 983.0183
+MarketCap Float: 60.00035
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Veru Inc. - Common Stock
+
+
+Visa Inc.
+PE_Ratio: 42.66746
+Beta: 0.92681
+High52: 252.67
+Low52: 186.67
+MarketCap: 450291.4
+MarketCap Float: 1651.88
+Dividend Pay Ammount: 0.375
+Dividend Pay Date: 2022-03-01 
+Net Profit Margin TTM: 51.59163
+Visa Inc.
+
+
+Zentalis Pharmaceuticals, Inc. - common stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 87.19
+Low52: 29.09
+MarketCap: 1422.47
+MarketCap Float: 41.51201
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Zentalis Pharmaceuticals, Inc. - common stock
+
+
+ZimVie Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 50.395
+Low52: 21.52
+MarketCap: 624.4357
+MarketCap Float: 26.08323
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+ZimVie Inc. - Common Stock
+
+
+description
+PE_Ratio: P/E Ratio
+Beta: Beta
+High52: High-52
+Low52: Low-52
+MarketCap: Market Cap
+MarketCap Float: Market Cap Float
+Dividend Pay Ammount: Dividend Pay: 
+Dividend Pay Date: Dividend Pa
+Net Profit Margin TTM: Net Profit Margin (TTM)
+description
+
+

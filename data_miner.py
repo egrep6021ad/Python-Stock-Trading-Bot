@@ -171,7 +171,6 @@ def get_history(ticker):
                         params={'apikey' : td_consumer_key})
     #content = json.loads(page.content)
     data = page.json()
-    pprint(data)
     temp = data['candles']
     sym = f"${data['symbol']}"
     for x in temp:
@@ -201,9 +200,8 @@ def get_history(ticker):
 
 
 
-#Options arent working!
-def options(stock):
 
+def options(stock):
   # Get underlying Stock information:
   endpoint = quotes_url.format(stock_ticker = stock)
   quotes = requests.get(url=endpoint, 
@@ -228,7 +226,6 @@ def options(stock):
   
 
   data = data.json()
-
   with open(f'./{today}/{today[5:]}\'s PUT_options.csv', 'w+') as f: 
     dict = {}
     n = 0
@@ -280,33 +277,26 @@ def options(stock):
 
 
 if __name__ == "__main__":
-  # Returns array of SYMBOLS for days biggest movers:
-  #arr = get_biggest_daily_movers()
-  
-  #good arr = ['IRM','TSLA','MULN','GBTC','AAPL','TWTR',MLPA ,BORR,'ECTM',RODM,MDVL,'TSRI','SGLY','RERE']
-  #bad arr = ['BA','NFLX','FB','AEHAW',KJUL,NYMT,'FLRG','$ATER','KLDO','CRI','WHR',BURL,QEPC]
-
-  #print(arr)
-  arr = ['TSLA']
-  #arr = ['VERU']
-  #time.sleep(10)
-  print("40 Seconds.")
-  # Get Quotes for all of those big movers:
-  #get_quotes(arr)
-  #time.sleep(10)
-  print("30 Seconds..")
-  # Get fundamentals on the biggest movers:
-  
-  #get_fundamentals(arr)
-  #time.sleep(10)
-  print("20 Seconds...")
-  #print(arr)
- 
   try:
-  # Get 3 month breakout on those movers (trend finding / hopping)
-    print("WAIT")
-    #get_history(arr)
+    # Returns array of SYMBOLS for days biggest movers:
+    arr = get_biggest_daily_movers()
+    #arr = ['TSLA']
+    time.sleep(10)
+    print("40 Seconds.")
+    # Get Quotes for all of those big movers:
+    get_quotes(arr)
+    time.sleep(10)
+    print("30 Seconds..")
+    #Get fundamentals on the biggest moverst
+    get_fundamentals(arr)
+    time.sleep(20)
+    print("20 Seconds...")
+    # Get 3 month breakout on those movers (trend finding / hopping)
+    get_history(arr[0:5])
+    #Get Options:
+    options(arr[0])
   except KeyError:
-    print(f'Done! check {today}\'s folder!')
-  options(arr[0])
+    print("Key Error!")
+  print("DONE")
+ 
 

@@ -24,19 +24,6 @@ Net Profit Margin TTM: 16.44333
 APA Corporation - Common Stock
 
 
-AdaptHealth Corp.  - Common Stock
-PE_Ratio: 14.75138
-Beta: 0.28882
-High52: 38.03
-Low52: 13.95
-MarketCap: 2036.75
-MarketCap Float: 87.71695
-Dividend Pay Ammount: 0.0
-Dividend Pay Date:  
-Net Profit Margin TTM: 6.4433
-AdaptHealth Corp.  - Common Stock
-
-
 Agilent Technologies, Inc. Common Stock
 PE_Ratio: 33.31421
 Beta: 1.05383
@@ -48,19 +35,6 @@ Dividend Pay Ammount: 0.21
 Dividend Pay Date: 2022-04-27 
 Net Profit Margin TTM: 18.69666
 Agilent Technologies, Inc. Common Stock
-
-
-Alpha Tau Medical Ltd. - Ordinary Shares
-PE_Ratio: 61.28099
-Beta: 0.0
-High52: 20.65
-Low52: 8.2655
-MarketCap: 662.6315
-MarketCap Float: 59.65427
-Dividend Pay Ammount: 0.0
-Dividend Pay Date:  
-Net Profit Margin TTM: 0.0
-Alpha Tau Medical Ltd. - Ordinary Shares
 
 
 American Express Company Common Stock
@@ -76,19 +50,6 @@ Net Profit Margin TTM: 18.81507
 American Express Company Common Stock
 
 
-Amgen Inc. - Common Stock
-PE_Ratio: 24.33059
-Beta: 0.58345
-High52: 261.0
-Low52: 198.64
-MarketCap: 133910.6
-MarketCap Float: 532.4592
-Dividend Pay Ammount: 1.94
-Dividend Pay Date: 2022-06-08 
-Net Profit Margin TTM: 22.68371
-Amgen Inc. - Common Stock
-
-
 Apple Inc. - Common Stock
 PE_Ratio: 27.51837
 Beta: 1.19726
@@ -100,6 +61,32 @@ Dividend Pay Ammount: 0.22
 Dividend Pay Date: 2022-02-10 
 Net Profit Margin TTM: 26.57914
 Apple Inc. - Common Stock
+
+
+Aterian, Inc. - Common Stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 30.64
+Low52: 2.1
+MarketCap: 250.858
+MarketCap Float: 50.91237
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Aterian, Inc. - Common Stock
+
+
+Bath & Body Works, Inc.
+PE_Ratio: 11.75754
+Beta: 1.77709
+High52: 82.0
+Low52: 44.172
+MarketCap: 11373.58
+MarketCap Float: 224.1737
+Dividend Pay Ammount: 0.2
+Dividend Pay Date: 2022-03-04 
+Net Profit Margin TTM: 13.63867
+Bath & Body Works, Inc.
 
 
 Bicycle Therapeutics plc - American Depositary Shares
@@ -284,19 +271,6 @@ Net Profit Margin TTM: 10.06479
 Chevron Corporation Common Stock
 
 
-Chimerix, Inc. - Common Stock
-PE_Ratio: 0.0
-Beta: 1.3358
-High52: 9.29
-Low52: 4.56
-MarketCap: 404.6787
-MarketCap Float: 82.94841
-Dividend Pay Ammount: 0.0
-Dividend Pay Date:  
-Net Profit Margin TTM: 0.0
-Chimerix, Inc. - Common Stock
-
-
 Cisco Systems, Inc. - Common Stock
 PE_Ratio: 18.91449
 Beta: 0.9541
@@ -321,6 +295,19 @@ Dividend Pay Ammount: 0.44
 Dividend Pay Date: 2022-04-01 
 Net Profit Margin TTM: 25.36282
 Coca-Cola Company (The) Common Stock
+
+
+Danaher Corporation Common Stock
+PE_Ratio: 34.27409
+Beta: 0.78136
+High52: 333.96
+Low52: 231.09
+MarketCap: 208411.3
+MarketCap Float: 636.2136
+Dividend Pay Ammount: 0.25
+Dividend Pay Date: 2022-04-29 
+Net Profit Margin TTM: 21.54959
+Danaher Corporation Common Stock
 
 
 Darden Restaurants, Inc. Common Stock
@@ -388,19 +375,6 @@ Net Profit Margin TTM: 25.04161
 EOG Resources, Inc. Common Stock
 
 
-EPAM Systems, Inc. Common Stock
-PE_Ratio: 37.45515
-Beta: 1.80542
-High52: 725.4
-Low52: 168.5925
-MarketCap: 17369.0
-MarketCap Float: 54.99028
-Dividend Pay Ammount: 0.0
-Dividend Pay Date:  
-Net Profit Margin TTM: 12.81622
-EPAM Systems, Inc. Common Stock
-
-
 Etsy, Inc. - Common Stock
 PE_Ratio: 34.8476
 Beta: 1.64427
@@ -451,19 +425,6 @@ Dividend Pay Ammount: 0.0
 Dividend Pay Date:  
 Net Profit Margin TTM: 46.64329
 Gogo Inc. - Common Stock
-
-
-Goldman Sachs Group, Inc. (The) Common Stock
-PE_Ratio: 5.40443
-Beta: 1.45454
-High52: 426.1582
-Low52: 308.2
-MarketCap: 108392.8
-MarketCap Float: 336.1528
-Dividend Pay Ammount: 2.0
-Dividend Pay Date: 2022-03-30 
-Net Profit Margin TTM: 33.29025
-Goldman Sachs Group, Inc. (The) Common Stock
 
 
 Honeywell International Inc. - Common Stock
@@ -518,6 +479,19 @@ Net Profit Margin TTM: 39.73234
 JP Morgan Chase & Co. Common Stock
 
 
+Johnson & Johnson Common Stock
+PE_Ratio: 23.02176
+Beta: 0.7155
+High52: 184.2
+Low52: 155.72
+MarketCap: 472910.0
+MarketCap Float: 2627.346
+Dividend Pay Ammount: 1.06
+Dividend Pay Date: 2022-03-08 
+Net Profit Margin TTM: 22.26393
+Johnson & Johnson Common Stock
+
+
 KLX Energy Services Holdings, Inc.  - Common Stock
 PE_Ratio: 0.0
 Beta: 2.41726
@@ -529,6 +503,19 @@ Dividend Pay Ammount: 0.0
 Dividend Pay Date:  
 Net Profit Margin TTM: 0.0
 KLX Energy Services Holdings, Inc.  - Common Stock
+
+
+Longeveron Inc. - common stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 45.0
+Low52: 2.8401
+MarketCap: 186.7404
+MarketCap Float: 4.64098
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Longeveron Inc. - common stock
 
 
 Marathon Oil Corporation Common Stock
@@ -544,17 +531,17 @@ Net Profit Margin TTM: 17.24389
 Marathon Oil Corporation Common Stock
 
 
-Match Group, Inc. - Common Stock
-PE_Ratio: 116.1853
-Beta: 0.58196
-High52: 182.0
-Low52: 84.2
-MarketCap: 27516.81
-MarketCap Float: 276.7326
-Dividend Pay Ammount: 0.0
-Dividend Pay Date:  
-Net Profit Margin TTM: 9.25308
-Match Group, Inc. - Common Stock
+McDonald's Corporation Common Stock
+PE_Ratio: 24.95762
+Beta: 0.61079
+High52: 271.15
+Low52: 217.675
+MarketCap: 185234.2
+MarketCap Float: 738.2573
+Dividend Pay Ammount: 1.38
+Dividend Pay Date: 2022-03-15 
+Net Profit Margin TTM: 32.49034
+McDonald's Corporation Common Stock
 
 
 Merck & Company, Inc. Common Stock (new)
@@ -583,6 +570,19 @@ Net Profit Margin TTM: 38.49856
 Microsoft Corporation - Common Stock
 
 
+Nike, Inc. Common Stock
+PE_Ratio: 33.02522
+Beta: 0.96981
+High52: 179.1
+Low52: 116.75
+MarketCap: 196689.5
+MarketCap Float: 1260.823
+Dividend Pay Ammount: 0.305
+Dividend Pay Date: 2022-04-01 
+Net Profit Margin TTM: 13.06279
+Nike, Inc. Common Stock
+
+
 Nucor Corporation Common Stock
 PE_Ratio: 6.50628
 Beta: 1.33985
@@ -596,17 +596,17 @@ Net Profit Margin TTM: 19.52193
 Nucor Corporation Common Stock
 
 
-Pioneer Natural Resources Company Common Stock
-PE_Ratio: 29.95513
-Beta: 1.60603
-High52: 260.0
-Low52: 133.73
-MarketCap: 59868.48
-MarketCap Float: 241.4673
-Dividend Pay Ammount: 0.78
-Dividend Pay Date: 2022-03-14 
-Net Profit Margin TTM: 11.85227
-Pioneer Natural Resources Company Common Stock
+Nurix Therapeutics, Inc. - Common stock
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 37.425
+Low52: 12.34
+MarketCap: 556.0339
+MarketCap Float: 43.4584
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Nurix Therapeutics, Inc. - Common stock
 
 
 Ramaco Resources, Inc. - Common Stock
@@ -620,19 +620,6 @@ Dividend Pay Ammount: 0.1129
 Dividend Pay Date: 2022-03-15 
 Net Profit Margin TTM: 14.02958
 Ramaco Resources, Inc. - Common Stock
-
-
-Silicon Motion Technology Corporation - American Depositary Shares, each represe
-PE_Ratio: 12.29815
-Beta: 1.18498
-High52: 96.89
-Low52: 58.86
-MarketCap: 2453.493
-MarketCap Float: 30.19301
-Dividend Pay Ammount: 0.3
-Dividend Pay Date: 2022-05-11 
-Net Profit Margin TTM: 21.6842
-Silicon Motion Technology Corporation - American Depositary Shares, each represe
 
 
 Singularity Future Technology Ltd. - Common Stock
@@ -711,6 +698,58 @@ Dividend Pay Ammount: 0.375
 Dividend Pay Date: 2022-03-01 
 Net Profit Margin TTM: 51.59163
 Visa Inc.
+
+
+Walmart Inc. Common Stock
+PE_Ratio: 31.63891
+Beta: 0.54581
+High52: 158.41
+Low52: 132.01
+MarketCap: 424572.1
+MarketCap Float: 1433.722
+Dividend Pay Ammount: 0.56
+Dividend Pay Date: 2022-05-31 
+Net Profit Margin TTM: 2.43385
+Walmart Inc. Common Stock
+
+
+Walt Disney Company (The) Common Stock
+PE_Ratio: 75.9337
+Beta: 1.16156
+High52: 190.4
+Low52: 128.38
+MarketCap: 237865.8
+MarketCap Float: 1818.292
+Dividend Pay Ammount: 0.88
+Dividend Pay Date: 2020-01-16 
+Net Profit Margin TTM: 5.07755
+Walt Disney Company (The) Common Stock
+
+
+Weatherford International plc - Ordinary shares
+PE_Ratio: 0.0
+Beta: 0.0
+High52: 36.87
+Low52: 10.0
+MarketCap: 2420.022
+MarketCap Float: 65.41047
+Dividend Pay Ammount: 0.0
+Dividend Pay Date:  
+Net Profit Margin TTM: 0.0
+Weatherford International plc - Ordinary shares
+
+
+West Pharmaceutical Services, Inc. Common Stock
+PE_Ratio: 46.01904
+Beta: 1.06327
+High52: 475.35
+Low52: 295.16
+MarketCap: 29601.21
+MarketCap Float: 73.78133
+Dividend Pay Ammount: 0.18
+Dividend Pay Date: 2022-05-04 
+Net Profit Margin TTM: 22.61266
+West Pharmaceutical Services, Inc. Common Stock
 
 
 Zentalis Pharmaceuticals, Inc. - common stock

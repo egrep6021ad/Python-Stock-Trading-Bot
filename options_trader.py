@@ -13,9 +13,7 @@ if not exist:
 # Variable
 today = date.today() 
 today = str(today)
-
-
-
+# Import Data from CSV
 def import_from_csv(type):
   with open(f'./{today}/{today[5:]}\'s {type}_options.csv', mode='r') as f:
       options = {}
@@ -40,12 +38,11 @@ def import_from_csv(type):
         theoretical_volitility = row[15]
         quoteDate = row[16]
         trade_time = row[17]
-
-        options.update({n : (description, ticker, strike,in_money,stock_ask,stock_bid,option_ask,option_bid,theoretical_val,delta,gamma,theta,vega,time_val,volatility,theoretical_volitility,quoteDate,trade_time)})
         n += 1
+        options.update({n : (description, ticker, strike,in_money,stock_ask,stock_bid,option_ask,option_bid,theoretical_val,delta,gamma,theta,vega,time_val,volatility,theoretical_volitility,quoteDate,trade_time)})
   return options
-
-def data_handler(options):
+# Write to TXT File
+def data_handler(options,r):
    with open(f'./Quick/{today[5:]} options.txt', 'w+') as fp:
     for (k,v) in options.items():
       fp.write(f"{v[0]}\n")
@@ -66,12 +63,58 @@ def data_handler(options):
       fp.write(f"Thoeoretical Volatility: {v[15]}\n")
       fp.write(f"Quote Date: {v[16]}\n")
       fp.write(f"Expiration Date: {v[17]}\n\n")
-      
-  
+    print(f"\nOptions Analysis:\n {v[0]}")
+    k = growth_by_dollar(float(v[9]),float(v[10]),r)
+    k = time_decay(float(v[6]),float(v[11]),r)
+    k = vega(float(v[6]),float(v[12]),r)
+# Delta
+def growth_by_dollar(delta,gamma,r):
+  a = delta
+  b = delta
+  n = 1
+  print("\nUnderlying Stock Changes:")
+  while n <= r :
+    a += abs(gamma)
+    print(f"UP ${n}, Delta = {a}")
+    b -= abs(gamma)
+    print(f"Down ${n}, Delta = {b}\n")
+    n += 1
+  return (a,b)
+# Theta
+def time_decay(value,theta,r):
+  print("\nTime Decay By Day:")
+  n = 1
+  while n <= r:
+    value += (theta)
+    print(f"Day {n} Days from Today: {value}")
+    n +=1 
+  print()
+  return value
+# Vega
+def vega(value,vega,r):
+  print(f"\nVolatility change by 1 percentage point: ")
+  a = value
+  b = value
+  n = 1
+  while n <= r:
+    a += vega
+    print(f"+{n}%: {a}")
+    b -= vega
+    print(f"-{n}%: {b}\n")
+    n += 1
+  print()
+  return 0
+    
+# Create function to be able to calculate all of them at once!
 
+
+  
+    
 
   
 if __name__ == "__main__":
-  dict = import_from_csv("CALL")
-  data_handler(dict)
-  dict = import_from_csv("PUT")
+  x = input("What type? (CALL or PUT):  ")
+  y = input("How Many Days Forcasted? ")
+  dict = import_from_csv(x)
+  data_handler(dict,int(y))
+

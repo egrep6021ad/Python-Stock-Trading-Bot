@@ -91,6 +91,7 @@ def runner_algo(candle_stick,           # Dictionary with TCKR history
     change = percent_change(cash_in*input_dollars,cash_out,[1])
     change = change[0]
     fst2.write(f"Change: {change : 0.2f} (negative = % growth, positive = % loss)\n")
+    print("\n")
     pprint(portfolio)
   return
 

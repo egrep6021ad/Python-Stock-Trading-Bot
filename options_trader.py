@@ -63,46 +63,53 @@ def data_handler(options,r):
       fp.write(f"Thoeoretical Volatility: {v[15]}\n")
       fp.write(f"Quote Date: {v[16]}\n")
       fp.write(f"Expiration Date: {v[17]}\n\n")
-    print(f"\nOptions Analysis:\n {v[0]}")
+      
+    print(f"\nOptions Analysis: {v[0]}")
+    print(f"\tStocks Ask: {v[4]}")
+    print(f"\tOption's Ask: {v[6]}")
+    print(f"\tIn the Money: {v[3]}")
+   
     k = growth_by_dollar(float(v[9]),float(v[10]),r)
     k = time_decay(float(v[6]),float(v[11]),r)
     k = vega(float(v[6]),float(v[12]),r)
+     
 # Delta
 def growth_by_dollar(delta,gamma,r):
   a = delta
   b = delta
   n = 1
-  print("\nUnderlying Stock Changes:")
+  print("\n-- Underlying Stock Changes (Gamma): -- ")
   while n <= r :
     a += abs(gamma)
-    print(f"UP ${n}, Delta = {a}")
-    b -= abs(gamma)
-    print(f"Down ${n}, Delta = {b}\n")
+    print(f"\tUp ${n}, Delta = {a : .2f}")
+    b += abs(gamma)
+    if b < 0:
+      b = b * -1
+    print(f"\tDown ${n}, Delta = {b : .2f}\n")
     n += 1
   return (a,b)
 # Theta
 def time_decay(value,theta,r):
-  print("\nTime Decay By Day:")
+  print("\n-- Time Decay By Day (Theta): -- ")
   n = 1
   while n <= r:
     value += (theta)
-    print(f"Day {n} Days from Today: {value}")
+    print(f"\tDay {n} Days from Today: {value : .2f}")
     n +=1 
   print()
   return value
 # Vega
 def vega(value,vega,r):
-  print(f"\nVolatility change by 1 percentage point: ")
+  print(f"\n-- Volatility change by 1 percentage point (Vega): --")
   a = value
   b = value
   n = 1
   while n <= r:
     a += vega
-    print(f"+{n}%: {a}")
+    print(f"\t+{n}%: {a : .2f} premium")
     b -= vega
-    print(f"-{n}%: {b}\n")
+    print(f"\t-{n}%: {b : .2f} premium\n")
     n += 1
-  print()
   return 0
     
 # Create function to be able to calculate all of them at once!
@@ -113,7 +120,7 @@ def vega(value,vega,r):
 
   
 if __name__ == "__main__":
-  x = input("What type? (CALL or PUT):  ")
+  x = input("\nWhat type? (CALL or PUT):  ")
   y = input("How Many Days Forcasted? ")
   dict = import_from_csv(x)
   data_handler(dict,int(y))

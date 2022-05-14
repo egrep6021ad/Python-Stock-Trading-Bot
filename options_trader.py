@@ -94,7 +94,7 @@ def time_decay(value,theta,r):
   n = 1
   while n <= r:
     value += (theta)
-    print(f"\tDay {n} Days from Today: {value : .2f}")
+    print(f"\tDay {n} Days from Today:  -{value : .2f}")
     n +=1 
   print()
   return value

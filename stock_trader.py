@@ -75,7 +75,7 @@ def runner_algo( min_momentum,           # Min days trending to purchase
         mean = [1]
         change = percent_change(daily_high_arr[-2],curr_high,mean)
         change = change[0]
-        if change > 0.5 or value[0] == end_of_file:
+        if change > 0.25 or value[0] == end_of_file:
           # SELL! assets have fallen ___% far...
           sell_function = sell_asset(invested,writer,funds_remain,curr_high, shares,value[4],prev_symbol)
           invested = sell_function[0]
@@ -153,7 +153,9 @@ def get_data():
           candle_stick.update({days: (days,
                                       high,
                                       low,
-                                      sym,date)})
+                                      sym,
+                                      date)
+                              })
         k += 1
   return candle_stick
 

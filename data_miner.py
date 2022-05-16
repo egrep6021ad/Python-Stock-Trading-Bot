@@ -7,6 +7,7 @@ from get_quotes import *
 from get_fundamentals import *
 from get_options import *
 from get_movers import *
+from stock_trader import *
 
 
 today = date.today()
@@ -25,7 +26,7 @@ if __name__ == "__main__":
     # Returns array of SYMBOLS for days biggest movers:
     arr = getMovers(poop)
     pprint(arr)
-    arr = ['NFLX']
+    arr = ['APA','MRO','TSLA','NFLX']
     time.sleep(10)
     print("40 Seconds.")
     # Get Quotes for all of those big movers:
@@ -37,7 +38,10 @@ if __name__ == "__main__":
     time.sleep(20)
     print("20 Seconds...")
     # Get 3 month breakout on those movers (trend finding / hopping)
-    getHistory(arr,poop)
+    for x in arr:
+      getHistory([x],poop)
+      runner_algo(1,10000)
+      
     #Get Options:
     getOptions('TSLA',poop)
   except KeyError:

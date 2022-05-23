@@ -75,14 +75,14 @@ def runner_algo( min_momentum,           # Min days trending to purchase
         mean = [1]
         change = percent_change(daily_high_arr[-2],curr_high,mean)
         change = change[0]
-        if change > 0.5 or value[0] == end_of_file:
+        if change > 0.25 or value[0] == end_of_file:
           # SELL! assets have fallen ___% far...
           sell_function = sell_asset(invested,writer,funds_remain,curr_high, shares,value[4],prev_symbol)
           invested = sell_function[0]
           funds_remain = sell_function[1] 
           portfolio.update({symbol : funds_remain})
 
-
+  return(float(portfolio[0]))
   # END: Cumulative data ->  txt file
   with open(f'./Quick/{today[5:]} candle_read.csv', 'w+') as fst2:     
   # Print The statistics
@@ -103,7 +103,7 @@ def runner_algo( min_momentum,           # Min days trending to purchase
     writer.writerow(temp)
     print("\n")
     pprint(portfolio)
-  return
+  return 
 
 
 
@@ -153,7 +153,9 @@ def get_data():
           candle_stick.update({days: (days,
                                       high,
                                       low,
-                                      sym,date)})
+                                      sym,
+                                      date)
+                              })
         k += 1
   return candle_stick
 

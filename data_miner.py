@@ -26,7 +26,7 @@ if __name__ == "__main__":
     # Returns array of SYMBOLS for days biggest movers:
     arr = getMovers(poop)
     pprint(arr)
-    arr = ['APA','MRO','TSLA','NFLX']
+    #arr = ['APA','MRO','TSLA','NFLX']
     time.sleep(10)
     print("40 Seconds.")
     # Get Quotes for all of those big movers:
@@ -38,9 +38,14 @@ if __name__ == "__main__":
     time.sleep(20)
     print("20 Seconds...")
     # Get 3 month breakout on those movers (trend finding / hopping)
+    invested = 0
+    temp = 0
     for x in arr:
+      invested += 10000
       getHistory([x],poop)
-      runner_algo(1,10000)
+      temp += runner_algo(1,10000)
+    print(invested)
+    print(temp)
       
     #Get Options:
     getOptions('TSLA',poop)

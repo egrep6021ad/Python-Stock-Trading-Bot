@@ -81,8 +81,8 @@ def runner_algo( min_momentum,           # Min days trending to purchase
           invested = sell_function[0]
           funds_remain = sell_function[1] 
           portfolio.update({symbol : funds_remain})
-
-  return(float(portfolio[0]))
+ 
+ 
   # END: Cumulative data ->  txt file
   with open(f'./Quick/{today[5:]} candle_read.csv', 'w+') as fst2:     
   # Print The statistics
@@ -103,7 +103,7 @@ def runner_algo( min_momentum,           # Min days trending to purchase
     writer.writerow(temp)
     print("\n")
     pprint(portfolio)
-  return 
+  return(float(portfolio[symbol]))
 
 
 

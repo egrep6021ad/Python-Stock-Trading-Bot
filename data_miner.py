@@ -25,7 +25,8 @@ if __name__ == "__main__":
   try:
     # Returns array of SYMBOLS for days biggest movers:
     arr = getMovers(poop)
-    arr = ['APA','MRO','TSLA','NFLX']
+    #arr = ['APA','MRO','TSLA','NFLX']
+    arr = ['TSLA']
     pprint(arr)
    
     time.sleep(10)

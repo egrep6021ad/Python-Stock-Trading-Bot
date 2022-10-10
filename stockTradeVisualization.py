@@ -32,9 +32,9 @@ with open(f'./recentTrades/{today[5:]} candle_read.csv', 'r') as csvfile:
 
 
 fig, ax = plt.subplots()
-ax.plot(buy_date, buy_price, label='Prices 2008-2018', color='blue')
-ax.plot(sell_date, sell_price, label='Prices 2010-2018', color = 'red')
-legend = ax.legend(loc='center right', fontsize='x-large')
+plt.plot(sell_date, sell_price, buy_date, buy_price)
+#plt.plot(buy_date, buy_price)
+#legend = ax.legend(loc='center right', fontsize='x-large')
 plt.xlabel('years')
 plt.ylabel('prices')
 plt.title('Comparison of the different prices')

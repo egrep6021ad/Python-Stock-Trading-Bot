@@ -6,6 +6,7 @@ import os
 
 today = date.today()
 today = str(today)
+os.environ['TZ'] = ('US/EASTERN')
 
 path = f"./recentTrades"
 exist = os.path.exists(path)

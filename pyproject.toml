@@ -13,6 +13,8 @@ plotly = "^5.7.0"
 matplotlib = "^3.5.2"
 pandas = "^1.4.3"
 keras = "^2.9.0"
+jsonify = "^0.5"
+Flask-Cors = "^3.0.10"
 
 [tool.poetry.dev-dependencies]
 

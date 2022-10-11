@@ -10,11 +10,12 @@ today = date.today()
 today = str(today)
 os.environ['TZ'] = ('US/EASTERN')
 print(today)
+my_secret = os.environ['hulcrux']
+_key = my_secret
+
 
 def runStockTradingBot(arr):
     # API key:
-    my_secret = os.environ['hulcrux']
-    _key = my_secret
     total_investment = 0
     current_portfolio_value = 0
     for x in arr:
@@ -30,22 +31,30 @@ app = Flask('app')
 CORS(app)
 os.environ['TZ'] = ('US/EASTERN')
 
+
 @app.route('/userChoice', methods=('GET', 'POST'), strict_slashes=False)
 def post_SpecificStockAndTrade():
     if request.method == 'POST':
-        # Make the trades based on user symbols: 
+        # Make the trades based on user symbols:
         try:
-          data = request.get_json()
-          output = runStockTradingBot([data['TICKR']])
-          return jsonify(output)
+            data = request.get_json()
+            output = runStockTradingBot([data['TICKR']])
+            return jsonify(output)
         except:
-          return jsonify("ERROR")
-    
+            return jsonify("ERROR")
 
 
-@app.route('/dailyMovers')
+@app.route('/dailyMovers', methods=('GET', 'POST'), strict_slashes=False)
 def get_DailyMovers():
-    return "piss off mate"
+  try:
+    direction = request.get_json()
+    arr = fetch_biggestDailyMovers.getMovers(_key,
+                                          direction['direction'])
+    # Only send top 10:
+    arr = arr[0:10]
+    return jsonify(arr)
+  except:
+    return jsonify("ERROR")
 
 
 @app.route('/')

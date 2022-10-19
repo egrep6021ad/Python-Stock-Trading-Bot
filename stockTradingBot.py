@@ -14,11 +14,9 @@ if not exist:
     os.makedirs(path)
 
 
-def runner_algo(
-        min_momentum,  # Min days trending to purchase 
-        input_dollars):  # Money per asset
+# Args = Min days trending to purchase,  Ivestment:
+def runner_algo(min_momentum, input_dollars):
     candle_stick = get_data()
-    # Global Variable Init.
     #support = float(candle_stick.get('0')[2])
     end_of_file = list(candle_stick.items())[-1][1][0]
     days_trending = 0
@@ -78,10 +76,10 @@ def runner_algo(
             else:
                 support = curr_high
                 days_trending = 0
-                mean = [1]
+                mean = [sum(daily_high_arr) / len(daily_high_arr)]
                 change = percent_change(daily_high_arr[-2], curr_high, mean)
                 change = change[0]
-                if change > 0.25 or value[0] == end_of_file:
+                if change > 0.5 or value[0] == end_of_file:
                     # SELL! assets have fallen ___% far...
                     sell_function = sell_asset(invested, writer, funds_remain,
                                                curr_high, shares, value[4],
@@ -164,4 +162,4 @@ def get_data():
 
 
 if __name__ == "__main__":
-    runner_algo(1, 10000)
+    runner_algo(2, 10000)
